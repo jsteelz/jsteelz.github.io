@@ -1,0 +1,117 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: medium;
+  background-color: #434343;
+  color: white;
+}
+
+#firstpartstory, #title, #authors, #subtitle, #secondpartstory {
+  position: relative;
+  left: 50%;
+  margin-left: -425px;
+  max-width: 850px;
+}
+
+#title {
+  color: #e67300;
+  font-size: 50px;
+}
+
+#subtitle {
+  color: white;
+  font-size: 28px;
+}
+
+#authors {
+  color: #e67300;
+  font-size: 20px;
+}
+
+#firstpartstory, #secondpartstory {
+  font-size: 17px;
+}
+
+#boroughs path {
+  stroke: #434343;
+}
+
+path.arc {
+  pointer-events: none;
+  fill: none;
+  stroke: #000;
+  display: none;
+}
+
+path.cell {
+  fill: none;
+  pointer-events: all;
+}
+
+circle {
+  fill-opacity: .75;
+}
+
+#cells.voronoi path.cell {
+  stroke: white;
+}
+
+#cells g:hover path.arc {
+  display: inherit;
+}
+
+#mapcontainer {
+  position: relative;
+  left: 50%;
+  margin-left: -425px;
+  max-width: 850px;
+}
+
+#maptitle, #boroughname, #graphtitle {
+  position: relative;
+  color: #e67300;
+  font-size: 28px;
+}
+
+.chart {
+  position: relative;
+  left: 50%;
+  margin-left: -425px;
+}
+
+.bar {
+  fill: white;
+}
+
+.pctbar {
+  fill: #e67300;
+}
+
+.chart text {
+  fill: white;
+  font-size: 12px;
+}
+
+.label {
+  text-anchor: end;
+}
+
+#hovertitle span {
+  font-size: 15px;
+  color: #e67300;
+}
+
+.hovertitle {
+  color: white;
+  font-size: 12px;
+}
+
+u {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #e67300;
+}
+
+#mapcontainer u {
+  cursor: default;
+  text-decoration: none;
+}

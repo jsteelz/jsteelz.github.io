@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+
+<!-- Code inspired by Mike Bostock -->
+
+<html>
+
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Montreal Travel Patterns</title>
+
+    <link rel="stylesheet" type="text/css" href="mtlmvmt.css" />
+
+    <script type="text/javascript" src="d3/d3.js"></script>
+    <script type="text/javascript" src="d3/d3.csv.js"></script>
+    <script type="text/javascript" src="d3/d3.geo.js"></script>
+    <script type="text/javascript" src="d3/d3.geom.js"></script>
+  </head>
+
+  <body>
+      <div id="title">
+        <br>
+        How Does Montreal Get Around?
+      </div>
+
+      <div id="subtitle">
+        <br>
+        A look at the interborough travel patterns of residents.
+      </div>
+
+      <div id="authors">
+        <br>
+        lisa altman // bradley minielly // jeremy steele // anders turim
+      </div>
+
+
+
+      <div id="firstpartstory">
+        <br><br>
+        <img src="images/bus.jpg" alt="The queue for the 24-Sherbrooke at Sherbrooke station, rush-hour.">
+        <br><br>
+        The Montreal area is exceedingly diverse, with a variety of distinct boroughs, neighbourhoods, and towns that have something for everyone. Montrealers know that before you can play hard, you need to work hard. For both work and play, people living here often find that they need to travel away from their own neighbourhoods. These daily travels, both within the Island of Montreal and from Laval and the North and South Shores, gathered from the 2013 origin-destination survey, tell a story full of both surprises and non-surprises.<br><br>
+        Those of higher socioeconomic status nearer to downtown, such as Westmount, generally have better access to public transit, yet the data shows that they use it less, probably because they would rather show off their fancy cars than be packed into a train with the masses. Conversely, those of low socioeconomic status tend to travel using transit regardless of the travel distance or lack of transit accessibility in their areas. This is most clearly seen around the boroughs of Villeray-Saint-Michel-Parc-Extension and Mercier-Hochelaga-Maisonneuve. An explanation could be that populations in these areas do not necessarily have the means to travel day to day by car.
+        <br><br>
+        For an example of this, notice the <u onClick="showVilleray()">percentage</u> of trips on transit from Villeray-Saint-Michel-Parc-Extension to Sud-Ouest.
+      </div>
+
+      <div id="mapcontainer">
+        <br><br>
+        <span id="maptitle">Daily travel between Montreal Boroughs, 2013</span>
+        <br><br><u>Hover</u> over a borough to see outgoing travel patterns.
+        <br><u>Click</u> to display detailed travel graph below.
+        <br>Darker borough color = higher % trips by transit.
+        <br>Circle size = total trips leaving borough.
+        <br>Thicker line = higher volume of trips.
+        <br><br><input type="checkbox" id="voronoi"> <label for="voronoi"><u>show</u> voronoi boxes (click/hover boundaries)</label>
+        <br><input type="checkbox" id="showBorough" onclick="checkBox()"> <label><u>show</u> boroughs (more clutter sorry sieber)</label>
+        <br><br><div id="hovertitle"></div>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="map" id="map">
+            <marker id="arrowhead0" viewBox="0 0 60 60" refX="45" refY="30" markerUnits="strokeWidth" markerWidth="5" markerHeight="5" orient="auto">
+              <path d="M 0 0 L 60 30 L 0 60 z" fill="#000" />
+            </marker>
+        </svg>
+        <br><br><br>
+        <span id="graphtitle"></span><br><br>
+        <span id="graphlegend1"></span><br>
+        <span id="graphlegend2"></span><br><br>
+      </div>
+
+      <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="chart" id="chart">
+      </svg>
+    <script src="map2.js"></script>
+    <script src="map.js"></script>
+
+    <script type="text/javascript" src="d3/d3.v3.min.js" ></script>
+    <!-- Here we have to override the version of d3 used above, because it only works with this version -->
+    <script src="graph.js" ></script>
+
+    <div id="secondpartstory">
+      <br><br>
+      Given that a much larger proportion of travellers going to and from areas that are typically of a lower socioeconomic class are travelling by public transit, the fact that these are the areas where transit is least accessible is clearly a massive problem. Public transport should be located closer to people who need it and use it. Accessibility to transport should be maximized for those of lower socioeconomic status, and not be wasted on those who will opt for the use of their car. There is little intra-borough transit use. People must be walking or biking these shorter distances.<br><br>
+    	Like in every city, daily travel from every borough to downtown is common and consistent. It's also heavily transit-based, even for the West Island suburbs. Commutes to downtown and the central business district are the highest in volume from the Plateau, Laval, North Shore, Longueuil, and South Shore. Interestingly, people who live downtown seem to commute almost equally to the surrounding boroughs. It is not surprising that people living on either end of the island seem to travel the furthest distances most frequently.<br><br>
+    	The visualization of this dataset helps inform us of any changes that may need to be made to Montreal’s transit system, to optimally serve the travel needs of its users.
+    </div>
+
+    <br><br><br>
+
+  </body>
+</html>

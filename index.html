@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="index.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="files/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="files/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="files/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="files/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="files/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="files/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="files/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="files/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="files/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="files/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="files/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="files/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="files/favicon-16x16.png">
+    <link rel="manifest" href="files/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="files/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>j-s</title>
+  </head>
+
+  <body>
+
+    <div class="parent">
+
+      <div class="name">JEREMY STEELE</div>
+      <div class="desc">transit enthusiast</div>
+
+      <div class="links">
+        <a href="./files/resume.pdf" target="_blank">
+          <u>resume</u>
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/jsteelz" target="_blank">
+          <u>github</u>
+        </a>&nbsp;&nbsp;&nbsp;
+        <a href="https://randomseattletransitblog.blogspot.com" target="_blank">
+          <u>old blog</u>
+        </a>
+      </div>
+
+      <img class="divider" src="files/divider.png" alt="24 headsign"/>
+
+      <div class="header" id="projectheader">
+        Selection of projects
+      </div>
+
+      <div class="project" id="24">
+        <div class="project-title">
+          Can I Rightfully Complain About My Bus?
+        </div>
+        <br>
+        I scraped real-time bus arrivals at my local bus stop from 6am-9pm for a
+        week, then interpolated the real arrivals from the scraped data. This is
+        a visualization of the results.<br><br>
+
+        <a href="./24stop" target="_blank">
+          <u>link</u>
+        </a>
+      </div>
+
+      <div class="project" id="vta">
+        <div class="project-title">
+          VTA 'Next Network' Interactive Diagram
+        </div>
+        <br>
+        Over summer 2018, I put together a stylized, 45-degree diagram of the
+        planned future frequent transit service in Silicon Valley. I then
+        wrapped it in d3.js, allowing for elegant zooming and panning. Added
+        features such as clicking on a route to zoom to its extent.<br><br>
+
+        Future uses: Simplified transit navigation platforms. Intuitive
+        illustration of planned networks in a variety of settings. Interactive
+        transit information/wayfinding kiosks.<br><br>
+
+        <a href="./vtamap2" target="_blank">
+          <u>link</u>
+        </a>
+      </div>
+
+      <div class="project" id="stm">
+        <div class="project-title">
+          STM Frequent Transit Diagram
+        </div>
+        <br>
+        Rethought the STM's metro map. Broke tradition by changing north to
+        'Montreal north', allowing for a 90-degree alignment of metro lines.
+        Restyled map symbols, ensured no station labels overlapped
+        lines, added the frequent bus network to better convey
+        frequent transit availability to users.<br><br>
+
+        <a href="./stmdiagram/stm90d7.png" target="_blank">
+          <u>white</u>
+        </a>&nbsp;&nbsp;
+        <a href="./stmdiagram/stm90d8.png" target="_blank">
+          <u>black</u>
+        </a>
+      </div>
+
+      <div class="project" id="mtlmvmt">
+        <div class="project-title">
+          Interborough Travel Patterns, Montreal
+        </div>
+        <br>
+        As part of a geospatial web class, put together a visualization of
+        inter-borough travel patterns in Montreal. We used data obtained from
+        the STM.<br><br>
+
+        <a href="./mtlmvmt" target="_blank">
+          <u>link</u>
+        </a>
+      </div>
+
+    </div>
+
+    <script src="index.js" type="text/javascript"></script>
+
+  </body>
+
+</html>

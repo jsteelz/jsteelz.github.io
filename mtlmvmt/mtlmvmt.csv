@@ -1,0 +1,470 @@
+origin,destination,count,transitsharepct
+Ahuntsic-Cartierville,Ahuntsic-Cartierville,64600,20
+Ahuntsic-Cartierville,Ville-Marie,20700,73
+Ahuntsic-Cartierville,Saint-Laurent,11300,22
+Ahuntsic-Cartierville,Laval,10700,9
+Ahuntsic-Cartierville,Villeray-Saint-Michel-Parc-Extension,8500,29
+Ahuntsic-Cartierville,Rosemont-La Petite-Patrie,6700,34
+Ahuntsic-Cartierville,Cote-des-Neiges-Notre-Dame-de-Grace,6400,62
+Ahuntsic-Cartierville,Plateau-Mont-Royal,5700,47
+Ahuntsic-Cartierville,Montreal-Nord,4800,24
+Ahuntsic-Cartierville,Mercier-Hochelaga-Maisonneuve,2500,38
+Ahuntsic-Cartierville,Rive-Nord,2100,0
+Ahuntsic-Cartierville,Longueuil,1600,13
+Ahuntsic-Cartierville,Outremont,1500,41
+Ahuntsic-Cartierville,Mont-Royal,1500,18
+Ahuntsic-Cartierville,Anjou,1300,14
+Ahuntsic-Cartierville,Sud-Ouest,1200,52
+Ahuntsic-Cartierville,Saint-Leonard,1200,26
+Ahuntsic-Cartierville,Riviere-des-Prairies-Pointe-Aux-Trembles,1000,21
+Ahuntsic-Cartierville,Dorval,900,0
+Ahuntsic-Cartierville,Verdun,800,48
+Laval,Ahuntsic-Cartierville,23900,18
+Villeray-Saint-Michel-Parc-Extension,Ahuntsic-Cartierville,14800,34
+Rive-Nord,Ahuntsic-Cartierville,13600,15
+Saint-Laurent,Ahuntsic-Cartierville,12600,23
+Montreal-Nord,Ahuntsic-Cartierville,7900,30
+Rosemont-La Petite-Patrie,Ahuntsic-Cartierville,5700,33
+Cote-des-Neiges-Notre-Dame-de-Grace,Ahuntsic-Cartierville,4200,31
+Longueuil,Ahuntsic-Cartierville,3700,36
+Rive-Sud,Ahuntsic-Cartierville,3500,19
+Plateau-Mont-Royal,Ahuntsic-Cartierville,3400,42
+Riviere-des-Prairies-Pointe-Aux-Trembles,Ahuntsic-Cartierville,2900,23
+Mercier-Hochelaga-Maisonneuve,Ahuntsic-Cartierville,2900,33
+Saint-Leonard,Ahuntsic-Cartierville,2000,31
+Pierrefonds-Roxboro,Ahuntsic-Cartierville,1800,19
+Ville-Marie,Ahuntsic-Cartierville,1500,59
+Mont-Royal,Ahuntsic-Cartierville,1500,17
+Dollard-des-Ormeaux,Ahuntsic-Cartierville,1400,7
+LaSalle,Ahuntsic-Cartierville,1300,24
+Anjou,Ahuntsic-Cartierville,1200,29
+Outremont,Ahuntsic-Cartierville,1000,20
+Sud-Ouest,Ahuntsic-Cartierville,900,50
+Verdun,Ahuntsic-Cartierville,800,24
+Cote-Saint-Luc,Ahuntsic-Cartierville,800,19
+Anjou,Anjou,17100,8
+Anjou,Mercier-Hochelaga-Maisonneuve,7600,26
+Anjou,Ville-Marie,4700,67
+Anjou,Saint-Leonard,4600,16
+Anjou,Rosemont-La Petite-Patrie,3200,22
+Anjou,Riviere-des-Prairies-Pointe-Aux-Trembles,1800,18
+Anjou,Cote-des-Neiges-Notre-Dame-de-Grace,1700,50
+Anjou,Plateau-Mont-Royal,1200,25
+Anjou,Villeray-Saint-Michel-Parc-Extension,1200,23
+Anjou,Montreal-Nord,1000,21
+Anjou,Longueuil,900,8
+Anjou,Rive-Nord,900,0
+Anjou,Laval,800,0
+Anjou,Saint-Laurent,800,33
+Riviere-des-Prairies-Pointe-Aux-Trembles,Anjou,9600,9
+Mercier-Hochelaga-Maisonneuve,Anjou,9200,11
+Rive-Nord,Anjou,8800,2
+Saint-Leonard,Anjou,7000,18
+Rosemont-La Petite-Patrie,Anjou,4100,17
+Montreal-Nord,Anjou,4100,16
+Villeray-Saint-Michel-Parc-Extension,Anjou,3600,26
+Laval,Anjou,3400,7
+Longueuil,Anjou,2000,5
+Rive-Sud,Anjou,1800,2
+Cote-des-Neiges-Notre-Dame-de-Grace,Cote-des-Neiges-Notre-Dame-de-Grace,94300,34
+Cote-des-Neiges-Notre-Dame-de-Grace,Ville-Marie,41300,69
+Cote-des-Neiges-Notre-Dame-de-Grace,Saint-Laurent,9200,37
+Cote-des-Neiges-Notre-Dame-de-Grace,Plateau-Mont-Royal,8000,44
+Cote-des-Neiges-Notre-Dame-de-Grace,Outremont,7100,30
+Cote-des-Neiges-Notre-Dame-de-Grace,Westmount,5700,38
+Cote-des-Neiges-Notre-Dame-de-Grace,Sud-Ouest,4700,37
+Cote-des-Neiges-Notre-Dame-de-Grace,Mont-Royal,4300,28
+Cote-des-Neiges-Notre-Dame-de-Grace,Rosemont-La Petite-Patrie,3800,47
+Cote-des-Neiges-Notre-Dame-de-Grace,Cote-Saint-Luc,3500,31
+Cote-des-Neiges-Notre-Dame-de-Grace,LaSalle,3300,21
+Cote-des-Neiges-Notre-Dame-de-Grace,Longueuil,2700,27
+Cote-des-Neiges-Notre-Dame-de-Grace,Villeray-Saint-Michel-Parc-Extension,2600,39
+Cote-des-Neiges-Notre-Dame-de-Grace,Laval,2100,15
+Cote-des-Neiges-Notre-Dame-de-Grace,Verdun,2000,26
+Cote-des-Neiges-Notre-Dame-de-Grace,Dorval,2000,20
+Cote-des-Neiges-Notre-Dame-de-Grace,Mercier-Hochelaga-Maisonneuve,1800,53
+Cote-des-Neiges-Notre-Dame-de-Grace,Montreal-Ouest,1400,24
+Cote-des-Neiges-Notre-Dame-de-Grace,Rive-Sud,1400,2
+Cote-des-Neiges-Notre-Dame-de-Grace,Pointe-Claire,1100,17
+Cote-des-Neiges-Notre-Dame-de-Grace,Rive-Nord,1000,10
+Cote-des-Neiges-Notre-Dame-de-Grace,Lachine,800,11
+Cote-des-Neiges-Notre-Dame-de-Grace,Saint-Leonard,700,0
+Laval,Cote-des-Neiges-Notre-Dame-de-Grace,12300,45
+Cote-Saint-Luc,Cote-des-Neiges-Notre-Dame-de-Grace,11500,21
+Longueuil,Cote-des-Neiges-Notre-Dame-de-Grace,9700,52
+Villeray-Saint-Michel-Parc-Extension,Cote-des-Neiges-Notre-Dame-de-Grace,9000,69
+Saint-Laurent,Cote-des-Neiges-Notre-Dame-de-Grace,8900,36
+Rive-Nord,Cote-des-Neiges-Notre-Dame-de-Grace,8800,38
+Rive-Sud,Cote-des-Neiges-Notre-Dame-de-Grace,8500,36
+Rosemont-La Petite-Patrie,Cote-des-Neiges-Notre-Dame-de-Grace,7700,58
+Plateau-Mont-Royal,Cote-des-Neiges-Notre-Dame-de-Grace,6500,67
+Ville-Marie,Cote-des-Neiges-Notre-Dame-de-Grace,6200,54
+Sud-Ouest,Cote-des-Neiges-Notre-Dame-de-Grace,5100,58
+Mont-Royal,Cote-des-Neiges-Notre-Dame-de-Grace,5000,29
+Westmount,Cote-des-Neiges-Notre-Dame-de-Grace,4800,11
+Outremont,Cote-des-Neiges-Notre-Dame-de-Grace,4700,39
+Hampstead,Cote-des-Neiges-Notre-Dame-de-Grace,4700,19
+LaSalle,Cote-des-Neiges-Notre-Dame-de-Grace,4000,27
+Mercier-Hochelaga-Maisonneuve,Cote-des-Neiges-Notre-Dame-de-Grace,4000,57
+Verdun,Cote-des-Neiges-Notre-Dame-de-Grace,3700,54
+Dollard-des-Ormeaux,Cote-des-Neiges-Notre-Dame-de-Grace,3400,16
+Pierrefonds-Roxboro,Cote-des-Neiges-Notre-Dame-de-Grace,3400,37
+Lachine,Cote-des-Neiges-Notre-Dame-de-Grace,2800,40
+Saint-Leonard,Cote-des-Neiges-Notre-Dame-de-Grace,2500,56
+Riviere-des-Prairies-Pointe-Aux-Trembles,Cote-des-Neiges-Notre-Dame-de-Grace,2300,44
+Montreal-Nord,Cote-des-Neiges-Notre-Dame-de-Grace,2100,65
+Montreal-Ouest,Cote-des-Neiges-Notre-Dame-de-Grace,1900,14
+Dorval,Cote-des-Neiges-Notre-Dame-de-Grace,1500,29
+Kirkland,Cote-des-Neiges-Notre-Dame-de-Grace,1200,32
+Pointe-Claire,Cote-des-Neiges-Notre-Dame-de-Grace,1100,58
+Beaconsfield,Cote-des-Neiges-Notre-Dame-de-Grace,1000,36
+L'Ile Bizard-Sainte-Genevieve,Cote-des-Neiges-Notre-Dame-de-Grace,700,26
+Lachine,Lachine,22700,8
+Lachine,Ville-Marie,5500,59
+Lachine,LaSalle,4800,22
+Lachine,Dorval,2800,10
+Lachine,Saint-Laurent,2600,15
+Lachine,Pointe-Claire,2100,3
+Lachine,Sud-Ouest,1400,23
+Lachine,Rive-Sud,1200,2
+Lachine,Laval,800,0
+Lachine,Plateau-Mont-Royal,800,44
+LaSalle,Lachine,4600,17
+Rive-Sud,Lachine,3600,2
+Rive-Nord,Lachine,2100,2
+Laval,Lachine,2000,3
+Dorval,Lachine,1600,11
+Verdun,Lachine,1400,26
+Sud-Ouest,Lachine,1300,26
+Pointe-Claire,Lachine,1200,15
+Longueuil,Lachine,1100,8
+Beaconsfield,Lachine,1000,24
+Pierrefonds-Roxboro,Lachine,1000,10
+Saint-Laurent,Lachine,800,10
+LaSalle,LaSalle,43800,16
+LaSalle,Ville-Marie,11200,63
+LaSalle,Sud-Ouest,5600,18
+LaSalle,Verdun,4800,23
+LaSalle,Saint-Laurent,2800,18
+LaSalle,Longueuil,1800,15
+LaSalle,Rive-Sud,1700,6
+LaSalle,Dorval,1600,2
+LaSalle,Plateau-Mont-Royal,1200,36
+LaSalle,Pointe-Claire,900,5
+LaSalle,Rosemont-La Petite-Patrie,900,28
+LaSalle,Laval,900,14
+LaSalle,Westmount,800,54
+LaSalle,Villeray-Saint-Michel-Parc-Extension,700,7
+Sud-Ouest,LaSalle,9200,14
+Rive-Sud,LaSalle,8200,14
+Verdun,LaSalle,7300,17
+Laval,LaSalle,1600,12
+Longueuil,LaSalle,1600,17
+Rive-Nord,LaSalle,1500,11
+Ville-Marie,LaSalle,1100,22
+Pierrefonds-Roxboro,LaSalle,900,12
+Villeray-Saint-Michel-Parc-Extension,LaSalle,800,35
+Mercier-Hochelaga-Maisonneuve,LaSalle,700,34
+Plateau-Mont-Royal,Plateau-Mont-Royal,56200,33
+Plateau-Mont-Royal,Ville-Marie,40100,73
+Plateau-Mont-Royal,Rosemont-La Petite-Patrie,8400,37
+Plateau-Mont-Royal,Villeray-Saint-Michel-Parc-Extension,3000,42
+Plateau-Mont-Royal,Mercier-Hochelaga-Maisonneuve,2800,41
+Plateau-Mont-Royal,Outremont,2600,18
+Plateau-Mont-Royal,Longueuil,2400,23
+Plateau-Mont-Royal,Saint-Laurent,2200,43
+Plateau-Mont-Royal,Sud-Ouest,2200,47
+Plateau-Mont-Royal,Laval,1600,30
+Plateau-Mont-Royal,Westmount,900,47
+Plateau-Mont-Royal,Verdun,800,57
+Plateau-Mont-Royal,Mont-Royal,700,0
+Plateau-Mont-Royal,Rive-Nord,700,6
+Rosemont-La Petite-Patrie,Plateau-Mont-Royal,18100,41
+Ville-Marie,Plateau-Mont-Royal,10200,44
+Villeray-Saint-Michel-Parc-Extension,Plateau-Mont-Royal,9500,53
+Mercier-Hochelaga-Maisonneuve,Plateau-Mont-Royal,8800,36
+Laval,Plateau-Mont-Royal,6500,34
+Longueuil,Plateau-Mont-Royal,6500,32
+Rive-Nord,Plateau-Mont-Royal,6400,17
+Rive-Sud,Plateau-Mont-Royal,5100,28
+Outremont,Plateau-Mont-Royal,4300,26
+Sud-Ouest,Plateau-Mont-Royal,3100,51
+Verdun,Plateau-Mont-Royal,2700,71
+Saint-Laurent,Plateau-Mont-Royal,1900,46
+Riviere-des-Prairies-Pointe-Aux-Trembles,Plateau-Mont-Royal,1600,39
+Montreal-Nord,Plateau-Mont-Royal,1600,38
+Saint-Leonard,Plateau-Mont-Royal,1400,28
+Mont-Royal,Plateau-Mont-Royal,1000,17
+Westmount,Plateau-Mont-Royal,900,26
+Sud-Ouest,Sud-Ouest,26600,22
+Sud-Ouest,Ville-Marie,20600,67
+Sud-Ouest,Verdun,5700,22
+Sud-Ouest,Saint-Laurent,2800,30
+Sud-Ouest,Longueuil,2000,11
+Sud-Ouest,Mercier-Hochelaga-Maisonneuve,1700,54
+Sud-Ouest,Westmount,1400,29
+Sud-Ouest,Rive-Sud,1400,2
+Sud-Ouest,Rosemont-La Petite-Patrie,1300,40
+Sud-Ouest,Villeray-Saint-Michel-Parc-Extension,1200,34
+Sud-Ouest,Dorval,1000,19
+Sud-Ouest,Laval,900,19
+Verdun,Sud-Ouest,5900,27
+Longueuil,Sud-Ouest,4700,26
+Rive-Sud,Sud-Ouest,4700,14
+Ville-Marie,Sud-Ouest,4200,28
+Laval,Sud-Ouest,2400,39
+Rive-Nord,Sud-Ouest,2300,21
+Rosemont-La Petite-Patrie,Sud-Ouest,2100,48
+Villeray-Saint-Michel-Parc-Extension,Sud-Ouest,1700,80
+Mercier-Hochelaga-Maisonneuve,Sud-Ouest,1500,51
+Westmount,Sud-Ouest,1100,9
+Saint-Laurent,Sud-Ouest,1000,39
+L'Ile Bizard-Sainte-Genevieve,L'Ile Bizard-Sainte-Genevieve,6000,4
+L'Ile Bizard-Sainte-Genevieve,Pierrefonds-Roxboro,4600,2
+L'Ile Bizard-Sainte-Genevieve,Pointe-Claire,2700,7
+L'Ile Bizard-Sainte-Genevieve,Saint-Laurent,1500,9
+L'Ile Bizard-Sainte-Genevieve,Dollard-des-Ormeaux,1500,3
+L'Ile Bizard-Sainte-Genevieve,Ville-Marie,1500,52
+L'Ile Bizard-Sainte-Genevieve,Dorval,800,7
+Pierrefonds-Roxboro,L'Ile Bizard-Sainte-Genevieve,3400,10
+Rive-Sud,L'Ile Bizard-Sainte-Genevieve,1000,4
+Dollard-des-Ormeaux,L'Ile Bizard-Sainte-Genevieve,800,9
+Mercier-Hochelaga-Maisonneuve,Mercier-Hochelaga-Maisonneuve,60300,21
+Mercier-Hochelaga-Maisonneuve,Ville-Marie,30200,73
+Mercier-Hochelaga-Maisonneuve,Rosemont-La Petite-Patrie,14100,22
+Mercier-Hochelaga-Maisonneuve,Saint-Leonard,5700,18
+Mercier-Hochelaga-Maisonneuve,Villeray-Saint-Michel-Parc-Extension,4000,33
+Mercier-Hochelaga-Maisonneuve,Longueuil,3700,5
+Mercier-Hochelaga-Maisonneuve,Riviere-des-Prairies-Pointe-Aux-Trembles,3500,15
+Mercier-Hochelaga-Maisonneuve,Rive-Nord,2600,10
+Mercier-Hochelaga-Maisonneuve,Laval,2600,17
+Mercier-Hochelaga-Maisonneuve,Montreal-Nord,2000,37
+Mercier-Hochelaga-Maisonneuve,Saint-Laurent,2000,30
+Mercier-Hochelaga-Maisonneuve,Rive-Sud,1500,3
+Mercier-Hochelaga-Maisonneuve,Verdun,900,24
+Mercier-Hochelaga-Maisonneuve,Outremont,800,58
+Rosemont-La Petite-Patrie,Mercier-Hochelaga-Maisonneuve,10600,32
+Rive-Nord,Mercier-Hochelaga-Maisonneuve,10600,9
+Riviere-des-Prairies-Pointe-Aux-Trembles,Mercier-Hochelaga-Maisonneuve,9400,25
+Longueuil,Mercier-Hochelaga-Maisonneuve,5800,22
+Rive-Sud,Mercier-Hochelaga-Maisonneuve,5400,15
+Ville-Marie,Mercier-Hochelaga-Maisonneuve,4300,46
+Villeray-Saint-Michel-Parc-Extension,Mercier-Hochelaga-Maisonneuve,4200,49
+Saint-Leonard,Mercier-Hochelaga-Maisonneuve,3900,24
+Laval,Mercier-Hochelaga-Maisonneuve,3800,16
+Montreal-Nord,Mercier-Hochelaga-Maisonneuve,2800,48
+Verdun,Mercier-Hochelaga-Maisonneuve,1000,45
+Pierrefonds-Roxboro,Pierrefonds-Roxboro,23600,6
+Pierrefonds-Roxboro,Pointe-Claire,10300,10
+Pierrefonds-Roxboro,Ville-Marie,7800,68
+Pierrefonds-Roxboro,Dollard-des-Ormeaux,7300,5
+Pierrefonds-Roxboro,Saint-Laurent,5600,11
+Pierrefonds-Roxboro,Kirkland,5200,2
+Pierrefonds-Roxboro,Dorval,2700,4
+Pierrefonds-Roxboro,Laval,2000,4
+Pierrefonds-Roxboro,Sainte-Anne-de-Bellevue,1800,28
+Pierrefonds-Roxboro,Rive-Sud,1200,0
+Pierrefonds-Roxboro,Rive-Nord,1000,2
+Dollard-des-Ormeaux,Pierrefonds-Roxboro,7900,7
+Laval,Pierrefonds-Roxboro,2100,8
+Rive-Sud,Pierrefonds-Roxboro,2100,0
+Kirkland,Pierrefonds-Roxboro,1600,1
+Saint-Laurent,Pierrefonds-Roxboro,1600,17
+Pointe-Claire,Pierrefonds-Roxboro,1100,7
+Riviere-des-Prairies-Pointe-Aux-Trembles,Riviere-des-Prairies-Pointe-Aux-Trembles,51000,12
+Riviere-des-Prairies-Pointe-Aux-Trembles,Ville-Marie,12100,61
+Riviere-des-Prairies-Pointe-Aux-Trembles,Montreal-Nord,7000,25
+Riviere-des-Prairies-Pointe-Aux-Trembles,Rive-Nord,6300,4
+Riviere-des-Prairies-Pointe-Aux-Trembles,Rosemont-La Petite-Patrie,4900,19
+Riviere-des-Prairies-Pointe-Aux-Trembles,Saint-Leonard,4800,10
+Riviere-des-Prairies-Pointe-Aux-Trembles,Villeray-Saint-Michel-Parc-Extension,3000,12
+Riviere-des-Prairies-Pointe-Aux-Trembles,Laval,2500,4
+Riviere-des-Prairies-Pointe-Aux-Trembles,Saint-Laurent,2500,13
+Riviere-des-Prairies-Pointe-Aux-Trembles,Montreal-Est,2200,6
+Riviere-des-Prairies-Pointe-Aux-Trembles,Longueuil,1600,8
+Riviere-des-Prairies-Pointe-Aux-Trembles,Rive-Sud,900,0
+Rive-Nord,Riviere-des-Prairies-Pointe-Aux-Trembles,11100,2
+Montreal-Nord,Riviere-des-Prairies-Pointe-Aux-Trembles,2700,13
+Laval,Riviere-des-Prairies-Pointe-Aux-Trembles,2200,4
+Longueuil,Riviere-des-Prairies-Pointe-Aux-Trembles,1500,0
+Saint-Leonard,Riviere-des-Prairies-Pointe-Aux-Trembles,1500,19
+Rive-Sud,Riviere-des-Prairies-Pointe-Aux-Trembles,1400,7
+Rosemont-La Petite-Patrie,Riviere-des-Prairies-Pointe-Aux-Trembles,1300,26
+Montreal-Est,Riviere-des-Prairies-Pointe-Aux-Trembles,1200,27
+Villeray-Saint-Michel-Parc-Extension,Riviere-des-Prairies-Pointe-Aux-Trembles,900,25
+Rosemont-La Petite-Patrie,Rosemont-La Petite-Patrie,62800,22
+Rosemont-La Petite-Patrie,Ville-Marie,29200,70
+Rosemont-La Petite-Patrie,Villeray-Saint-Michel-Parc-Extension,11900,26
+Rosemont-La Petite-Patrie,Saint-Leonard,5500,21
+Rosemont-La Petite-Patrie,Longueuil,3700,19
+Rosemont-La Petite-Patrie,Laval,3400,19
+Rosemont-La Petite-Patrie,Saint-Laurent,3100,42
+Rosemont-La Petite-Patrie,Rive-Nord,2300,1
+Rosemont-La Petite-Patrie,Outremont,2000,55
+Rosemont-La Petite-Patrie,Montreal-Nord,1600,26
+Rosemont-La Petite-Patrie,Rive-Sud,1000,5
+Rosemont-La Petite-Patrie,Mont-Royal,900,36
+Rosemont-La Petite-Patrie,Dorval,800,23
+Rosemont-La Petite-Patrie,Verdun,800,56
+Villeray-Saint-Michel-Parc-Extension,Rosemont-La Petite-Patrie,18900,41
+Rive-Nord,Rosemont-La Petite-Patrie,9600,10
+Laval,Rosemont-La Petite-Patrie,6500,19
+Saint-Leonard,Rosemont-La Petite-Patrie,6300,27
+Ville-Marie,Rosemont-La Petite-Patrie,5300,41
+Longueuil,Rosemont-La Petite-Patrie,4600,32
+Rive-Sud,Rosemont-La Petite-Patrie,4400,18
+Montreal-Nord,Rosemont-La Petite-Patrie,3800,35
+Saint-Laurent,Rosemont-La Petite-Patrie,1700,27
+Verdun,Rosemont-La Petite-Patrie,1200,31
+Outremont,Rosemont-La Petite-Patrie,1100,26
+Saint-Laurent,Saint-Laurent,48900,14
+Saint-Laurent,Ville-Marie,13600,69
+Saint-Laurent,Laval,3400,4
+Saint-Laurent,Mont-Royal,2500,39
+Saint-Laurent,Dorval,1800,17
+Saint-Laurent,Pointe-Claire,1500,11
+Saint-Laurent,Villeray-Saint-Michel-Parc-Extension,1400,36
+Saint-Laurent,Outremont,1100,60
+Saint-Laurent,Westmount,1000,40
+Saint-Laurent,Rive-Sud,900,0
+Saint-Laurent,Rive-Nord,900,0
+Saint-Laurent,Dollard-des-Ormeaux,800,25
+Laval,Saint-Laurent,19900,12
+Rive-Nord,Saint-Laurent,15500,8
+Rive-Sud,Saint-Laurent,12800,7
+Longueuil,Saint-Laurent,5400,21
+Villeray-Saint-Michel-Parc-Extension,Saint-Laurent,5200,46
+Cote-Saint-Luc,Saint-Laurent,2300,15
+Kirkland,Saint-Laurent,2100,10
+Verdun,Saint-Laurent,2100,27
+Montreal-Nord,Saint-Laurent,2100,35
+Saint-Leonard,Saint-Laurent,2000,31
+Pointe-Claire,Saint-Laurent,2000,5
+Ville-Marie,Saint-Laurent,2000,44
+Dorval,Saint-Laurent,1700,7
+Mont-Royal,Saint-Laurent,1100,11
+Beaconsfield,Saint-Laurent,1100,10
+Saint-Leonard,Saint-Leonard,33300,17
+Saint-Leonard,Ville-Marie,8400,70
+Saint-Leonard,Montreal-Nord,4600,20
+Saint-Leonard,Villeray-Saint-Michel-Parc-Extension,4400,18
+Saint-Leonard,Laval,1700,2
+Saint-Leonard,Longueuil,1500,22
+Saint-Leonard,Rive-Nord,1300,3
+Rive-Nord,Saint-Leonard,5400,3
+Montreal-Nord,Saint-Leonard,5000,26
+Villeray-Saint-Michel-Parc-Extension,Saint-Leonard,4900,31
+Laval,Saint-Leonard,3500,3
+Longueuil,Saint-Leonard,1200,11
+Rive-Sud,Saint-Leonard,900,1
+Verdun,Verdun,27600,22
+Verdun,Ville-Marie,18900,68
+Verdun,Longueuil,2200,8
+Verdun,Rive-Sud,1400,6
+Verdun,Westmount,1000,42
+Rive-Sud,Verdun,4400,7
+Longueuil,Verdun,3400,9
+Rive-Nord,Verdun,1400,12
+Ville-Marie,Verdun,1300,34
+Laval,Verdun,1100,26
+Ville-Marie,Ville-Marie,62900,56
+Ville-Marie,Longueuil,3200,17
+Ville-Marie,Westmount,2500,32
+Ville-Marie,Villeray-Saint-Michel-Parc-Extension,1600,53
+Ville-Marie,Laval,1300,29
+Ville-Marie,Outremont,1100,45
+Ville-Marie,Rive-Sud,800,0
+Longueuil,Ville-Marie,58200,62
+Rive-Sud,Ville-Marie,47600,55
+Laval,Ville-Marie,35600,64
+Rive-Nord,Ville-Marie,35000,52
+Villeray-Saint-Michel-Parc-Extension,Ville-Marie,23100,78
+Westmount,Ville-Marie,10200,42
+Montreal-Nord,Ville-Marie,6200,71
+Outremont,Ville-Marie,5700,51
+Lachine,Ville-Marie,5500,59
+Dollard-des-Ormeaux,Ville-Marie,5500,53
+Cote-Saint-Luc,Ville-Marie,5100,53
+Mont-Royal,Ville-Marie,4700,55
+Pointe-Claire,Ville-Marie,4500,60
+Kirkland,Ville-Marie,2900,58
+Dorval,Ville-Marie,2800,67
+Beaconsfield,Ville-Marie,2800,50
+Hampstead,Ville-Marie,1600,36
+Montreal-Ouest,Ville-Marie,1500,37
+Villeray-Saint-Michel-Parc-Extension,Villeray-Saint-Michel-Parc-Extension,50600,35
+Villeray-Saint-Michel-Parc-Extension,Laval,4700,18
+Villeray-Saint-Michel-Parc-Extension,Montreal-Nord,2500,33
+Villeray-Saint-Michel-Parc-Extension,Mont-Royal,2300,31
+Villeray-Saint-Michel-Parc-Extension,Longueuil,2200,26
+Villeray-Saint-Michel-Parc-Extension,Outremont,1900,66
+Villeray-Saint-Michel-Parc-Extension,Rive-Nord,1700,6
+Villeray-Saint-Michel-Parc-Extension,Dorval,1100,18
+Villeray-Saint-Michel-Parc-Extension,Rive-Sud,1100,0
+Rive-Nord,Villeray-Saint-Michel-Parc-Extension,8800,11
+Laval,Villeray-Saint-Michel-Parc-Extension,7400,16
+Montreal-Nord,Villeray-Saint-Michel-Parc-Extension,4500,32
+Longueuil,Villeray-Saint-Michel-Parc-Extension,2700,39
+Rive-Sud,Villeray-Saint-Michel-Parc-Extension,2300,20
+Baie-D'Urfe,Baie-D'Urfe,1100,10
+Rive-Sud,Baie-D'Urfe,1700,2
+Beaconsfield,Beaconsfield,6900,2
+Beaconsfield,Pointe-Claire,4600,6
+Beaconsfield,Kirkland,2500,0
+Beaconsfield,Sainte-Anne-de-Bellevue,1400,24
+Beaconsfield,Dorval,1000,7
+Beaconsfield,Rive-Sud,900,0
+Kirkland,Beaconsfield,2300,1
+Rive-Sud,Beaconsfield,1400,7
+Pointe-Claire,Beaconsfield,1100,4
+Cote-Saint-Luc,Cote-Saint-Luc,10300,4
+Cote-Saint-Luc,Westmount,1700,17
+Cote-Saint-Luc,Montreal-Ouest,900,11
+Montreal-Ouest,Cote-Saint-Luc,700,0
+Dollard-des-Ormeaux,Dollard-des-Ormeaux,16300,4
+Dollard-des-Ormeaux,Pointe-Claire,9200,5
+Dollard-des-Ormeaux,Dorval,2300,3
+Dollard-des-Ormeaux,Kirkland,1600,9
+Dollard-des-Ormeaux,Sainte-Anne-de-Bellevue,1200,45
+Dollard-des-Ormeaux,Rive-Sud,1100,4
+Dollard-des-Ormeaux,Laval,800,0
+Rive-Sud,Dollard-des-Ormeaux,2000,1
+Pointe-Claire,Dollard-des-Ormeaux,1900,2
+Kirkland,Dollard-des-Ormeaux,900,4
+Dorval,Dollard-des-Ormeaux,900,3
+Dorval,Dorval,8400,5
+Dorval,Pointe-Claire,2300,10
+Rive-Sud,Dorval,7100,1
+Rive-Nord,Dorval,6000,1
+Laval,Dorval,4800,2
+Longueuil,Dorval,1500,5
+Kirkland,Dorval,900,7
+Kirkland,Kirkland,5300,3
+Kirkland,Pointe-Claire,4200,4
+Kirkland,Sainte-Anne-de-Bellevue,900,27
+Rive-Sud,Kirkland,3400,2
+Pointe-Claire,Kirkland,1800,3
+Laval,Kirkland,800,6
+Montreal-Est,Montreal-Est,800,0
+Rive-Nord,Montreal-Est,1900,0
+Mont-Royal,Mont-Royal,8200,4
+Mont-Royal,Outremont,1100,26
+Laval,Mont-Royal,2700,6
+Rive-Nord,Mont-Royal,1700,9
+Rive-Sud,Mont-Royal,1400,1
+Outremont,Mont-Royal,1400,12
+Longueuil,Mont-Royal,900,42
+Pointe-Claire,Pointe-Claire,19400,5
+Pointe-Claire,Sainte-Anne-de-Bellevue,1000,46
+Pointe-Claire,Rive-Sud,700,0
+Rive-Sud,Pointe-Claire,9800,1
+Laval,Pointe-Claire,1700,5
+Rive-Nord,Pointe-Claire,1600,0
+Sainte-Anne-de-Bellevue,Sainte-Anne-de-Bellevue,1900,4
+Sainte-Anne-de-Bellevue,Rive-Sud,1100,2
+Rive-Sud,Sainte-Anne-de-Bellevue,5100,6
+Westmount,Westmount,8500,7
+Rive-Sud,Westmount,1400,32
+Longueuil,Westmount,1100,32
+Laval,Westmount,1000,45
+Rive-Nord,Westmount,900,27

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>A look at my bus</title>
+
+    <link rel="stylesheet" type="text/css" href="index.css" />
+
+    <!-- d3 stuff -->
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+
+  </head>
+
+  <body>
+
+    <img id="img" src="./files/24.png" alt="24 headsign"/>
+
+    <div id="title">
+      Can I Rightfully Complain About My Bus?
+    </div>
+
+    <div id="description">
+      Like most bus riders, I have a love-hate relationship with my route.
+      In theory, I love its frequency and convenience; in practice, I often just
+      give up and walk. I decided to investigate.
+    </div>
+
+    <div class="header">
+      Intro
+    </div>
+
+    <div class="text">
+      My daily commute to McGill for the past two and a half years has stayed
+      the same: a trip on the 24 bus. The 24 is one of Montreal's "10 minute
+      max" buses: that is, between 6am and 9pm, one should not have to wait
+      more than 10 minutes, and on average no more than 5 minutes, for a bus.
+      To see if the 24 is holding up its end of the deal, I scraped real-time
+      arrivals at my stop from 6am to 9pm for a week. Here are the results.
+    </div>
+
+    <div class="header">
+      Part 1: Wait Times
+    </div>
+
+    <div class="text">
+      The main goal of this project was to see how often I need to wait more
+      than ten (or five) minutes for a 24 to show up at my stop. Here's a
+      visualization of the results, with the hour on the x axis and the day on
+      the y axis.
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="p1"></svg>
+
+    <div class="text">
+      <span class="subheader">Rush Hours</span><br><br>
+
+      Most noticeable above is the near-constant stream of buses during the
+      morning rush towards downtown. I'm much more likely to have to wait longer
+      during the afternoon rush. At first, this seems a banal observation: it
+      seems obvious that there would be more downtown-bound buses in the
+      morning. But, although I don't have offical ridership statistics, I have
+      noticed that there is also a significant rush in the other
+      direction.<br><br>
+      Below are the scheduled times for 24 buses at my stop from 7am-9am and
+      5pm-7pm, the busiest periods on the 24 (by my eye). Italicized entries
+      are buses that end their trip at the metro station after my stop, before
+      entering downtown. These truncated 24s run during rush hour to reduce
+      crowding on the route.<br><br>
+
+      <table id="sched_arrs">
+        <tr>
+          <td><b>7a</b></td>
+          <td>08</td>
+          <td>15</td>
+          <td>21</td>
+          <td><i>30</i</td>
+          <td>35</td>
+          <td>42</td>
+          <td>47</td>
+          <td><i>50</i></td>
+          <td>53</td>
+        </tr>
+        <tr>
+          <td><b>8a</b></td>
+          <td>01</td>
+          <td>10</td>
+          <td><i>12</i></td>
+          <td>15</td>
+          <td>18</td>
+          <td>21</td>
+          <td>25</td>
+          <td>28</td>
+          <td>30</td>
+          <td>32</td>
+          <td>35</td>
+          <td><i>38</i></td>
+          <td>40</td>
+          <td>45</td>
+          <td>51</td>
+          <td><i>58</i></td>
+        </tr>
+        <tr><td>&nbsp;</td></tr>
+        <tr>
+          <td><b>5p</b></td>
+          <td>02</td>
+          <td>12</td>
+          <td><i>18</i></td>
+          <td>22</td>
+          <td>32</td>
+          <td>42</td>
+          <td><i>47</i></td>
+          <td>52</td>
+        </tr>
+        <tr>
+          <td><b>6p</b></td>
+          <td>02</td>
+          <td><i>06</i></td>
+          <td>10</td>
+          <td><i>15</i></td>
+          <td>19</td>
+          <td><i>23</i></td>
+          <td>28</td>
+          <td><i>33</i></td>
+          <td>38</td>
+          <td>46</td>
+          <td><i>50</i></td>
+          <td>55</td>
+        </tr>
+      </table>
+      <br>
+      It's safe to say that when we compare the 8am time slot to the 6pm time
+      slot, both shouldn't be seeing any yellow in the visualization above.
+      While this is generally true with the 8am slot, it is not at all the case
+      with the 6pm slot. For example, let's look at the real bus arrivals during
+      these hours for Wednesday (the scraping results unfortunately don't
+      differentiate between the trips ending at the metro station):<br><br>
+
+      <table id="real_arrs">
+        <tr>
+          <td><b>8a</b></td>
+          <td>02</td>
+          <td>06</td>
+          <td>11</td>
+          <td>13</td>
+          <td>16</td>
+          <td>22</td>
+          <td>26</td>
+          <td>29</td>
+          <td>31</td>
+          <td>33</td>
+          <td>39</td>
+          <td>41</td>
+          <td>46</td>
+          <td>56</td>
+          <td>58</td>
+          <td>59</td>
+        </tr>
+        <tr>
+          <td><b>6p</b></td>
+          <td>02</td>
+          <td>16</td>
+          <td>23</td>
+          <td>29</td>
+          <td>39</td>
+          <td>48</td>
+        </tr>
+      </table>
+      <br>
+      Notice that there are the exact same number of arrivals in both the
+      scheduled and real-time arrivals for 8-9am, which is not true for the
+      6-7pm slot. It looks like, for some reason, the STM's real-time data shows
+      arrivals for the extra trips in the morning rush but not during the
+      afternoon rush.<br><br>
+
+      <span class="subheader">Off-Peak Periods</span><br><br>
+
+      At other times, the results are mixed. Below is a simple chart of the the
+      probability of my wait time being in the categories defined above, in
+      between 10am and 5pm.
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="p2"></svg>
+    <script src="p1.js"></script>
+
+    <div class="text">
+      The good news for the 24 is figure in blue: at midday, you have about a
+      60% chance of waiting less than five minutes for a bus. This beats the "10
+      min max" standard by 10%. The bad news, however, is that there is still a
+      sizeable percentage of the time where you'd have to wait for longer than
+      10 minutes.<br><br>
+
+      Although 5-10% of the time might not seem like a high number, there are
+      two main reasons why I'd argue that it should be much lower. First, the 24
+      generally runs by my stop at 5-7 minute frequencies during this time,
+      meaning that a bus falling into this category is, almost by definition,
+      bunched with another; further, if you've waited ten minutes for a 24,
+      you've missed not one, but two buses. Second, a 10% figure means that, on
+      average, someone relying on it every day, like me, ends up late one day
+      every two weeks.<br><br>
+    </div>
+
+    <div class="header">
+      Part 2: Real-Time Data Accuracy
+    </div>
+
+    <div class="text">
+      A second goal of this project was to evaluate the accuracy of the
+      real-time data itself. The STM was late to the real-time game (as I have
+      previously ranted about on my blog), which begs the question: was it worth
+      the wait?<br><br>
+
+      Below is a simple bar chart how accurate real-time data was on each day.
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="p4"></svg>
+
+    <div class="text">
+      And here is another illustrating how often real-time data was more
+      accurate than scheduled data:
+    </div>
+
+    <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="p3"></svg>
+    <script src="p3.js"></script>
+
+    <div class="text">
+      These figures aren't particularly kind to the new real-time system. The
+      first chart is inoffensive: a 10-20% rate of inaccuracy larger than two
+      minutes isn't apocalyptic. It's the second chart that's damning: even
+      given real-time data, you'd do better just to look at the schedule 30-40%
+      of the time.
+    </div>
+
+    <div class="header">
+      Conclusion: Improvements Necessary All-Round
+    </div>
+
+    <div class="text">
+      I should preface the following by emphasizing my gratefulness: the 24 is
+      the first bus that I've lived near with such a high frequency. In terms of
+      transit accessbility, I'm as fortunate as I've ever been.<br><br>
+
+      There are two final points I'd like to make. First,
+      this data has limited reliability. By comparing real-time arrivals to
+      themselves, I'm assuming that the closer the bus is to the stop, the more
+      accurate the real-time arrivals are (I calculated the 'real' arrival times
+      by interpolating from the scraped data).<br><br>
+
+      Second, even if the data has a medium-large margin of error, the results
+      suggest there is a lot of room for improvement. Because of the 24's high
+      ridership, even a four-minute wait for the 24 at rush hour can mean no
+      place on the next bus for riders. Reliability and consistent intervals
+      between buses are crucial to ensuring people along the route get where
+      they need to go.
+    </div>
+
+  </body>
+</html>

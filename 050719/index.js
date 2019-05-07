@@ -18,7 +18,6 @@ function draw1() {
   var base1 = svg.append("g");
 
   base1.append("rect")
-    .text("VTA - Next Network Diagram")
     .attr("x", 1 * swidth / 8)
     .attr("y", sheight / 3 - 1)
     .attr("height", 2)
@@ -66,7 +65,7 @@ function draw1() {
   base1.append("text")
     .text("VTA - Ridership Along 523 Alignment")
     .attr("x", 3 * swidth / 8)
-    .attr("y", sheight / 3 + 25)
+    .attr("y", sheight / 3 - 25)
     .attr("dy", ".35em")
     .attr("text-anchor", "middle");
 
@@ -80,7 +79,7 @@ function draw1() {
   base1.append("text")
     .text("VTA - Next Network Diagram")
     .attr("x", 7 * swidth / 8)
-    .attr("y", sheight / 3 + 25)
+    .attr("y", sheight / 3 - 25)
     .attr("dy", ".35em")
     .attr("text-anchor", "middle");
 }

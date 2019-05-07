@@ -118,6 +118,7 @@ for (var i = 6; i < 22; i++) {
 
 var legend = base.append("g");
 
+//Adds a text element to the svg
 legend.append("text")
   .text("Legend: ")
   .attr("font-size", "12.5px")
@@ -127,6 +128,7 @@ legend.append("text")
   .attr("x", 0)
   .attr("y", 25 + 12.5 + 5 * dayHeight);
 
+//Adds a rectangle element to the svg
 legend.append("rect")
   .attr("fill", "#FF0000")
   .attr("x", 60)

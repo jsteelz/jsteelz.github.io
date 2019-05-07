@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <title>Swiftly Presentation | 05.07.19</title>
+    <meta charset="UTF-8">
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+
+    <!--mapbox stuff-->
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css' rel='stylesheet' />
+
+    <link rel="stylesheet" type="text/css" href="index.css"/>
+
+  </head>
+
+  <body>
+    <div id="top-bar">
+      <div id="name" class="tbc">Jeremy Steele</div>
+      <div id="title" class="tbc">Swiftly Presentation | 05.07.19</div>
+      <div id="slide" class="tbc">
+        <span id="slidenum">0/4</span>&nbsp;&nbsp;
+        <span class="arrow" onclick="prevSlide()">&#8592;</span>&nbsp;&nbsp;
+        <span class="arrow" onclick="nextSlide()">&#8594;</span>
+        </div>
+    </div>
+
+    <div id="slide-content">
+      <div id="s0" class="slide">
+      </div>
+
+      <div id="s1" class="slide">
+        <div class="stitle">Outline</div>
+
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="i1"></svg>
+      </div>
+
+      <div id="s2" class="slide">
+        <div class="stitle">Transit Data Analysis: Performance of my Local Bus Route</div>
+
+        <div class="scontent">
+          <br>
+          Data scraped from the STM website (before access to GTFS-RT)<br>
+          'Real' arrivals interpolated from real-time data<br>
+          Note: generously assumes non-realtime trips arrived as scheduled<br><br>
+        </div>
+
+        <div class="vtitle">
+          Figure 1: Waiting time for the bus throughout each day of the week
+        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="p1"></svg>
+
+        <br><br>
+        <div class="vtitle">
+          Figure 2: Real-time data accuracy across the week studied
+        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="p3"></svg>
+      </div>
+
+      <div id="s3" class="slide">
+        <div class="stitle">Transit Data Analysis: Ridership on New VTA Route 523</div>
+
+        <div class="scontent">
+          All data from VTA Open Data Portal, with help from Google Maps<br>
+          All ridership data: average weekday boardings, Oct 2017 (Halloween excluded)<br>
+          Note: ridership data on VTA Open Data Portal incomplete (averages well below 50% of total ridership)
+        </div>
+
+        <div class="vtitle">
+          Ridership on the De Anza College to Sunnyvale Corridor
+        </div>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="map" id="map_53"></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="map" id="map_54_1"></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="map" id="map_55"></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" class="map" id="map_523_55"></svg>
+      </div>
+
+      <div id="s4" class="slide">
+        <div id="map"></div>
+      </div>
+
+    </div>
+
+    <script src="index.js"></script>
+    <script src="i2.js"></script>
+    <script src="i3.js"></script>
+    <script src="i4.js"></script>
+  </body>
+
+</html>

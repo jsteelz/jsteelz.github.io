@@ -1,0 +1,61 @@
+body {
+  background-color: lightgray;
+}
+
+.main {
+  max-width: 720px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 400;
+  color: black;
+  margin: auto;
+}
+
+.title {
+  margin-top: 25px;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.subtitle {
+  font-size: 17px;
+}
+
+.section-header {
+  margin-top: 30px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.strava-link {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+img {
+  margin-top: 10px;
+  max-width: 50%;
+  margin-left: 0;
+  margin-right: 0;
+  display: inline;
+}
+
+.full-img {
+  max-width: 100%;
+}
+
+.caption {
+  margin-top: 0px;
+  color: rgb(85, 85, 85);
+  font-size: 12px;
+}
+
+.story {
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 140%;
+}
+
+a {
+  color: #FC5200;
+  text-decoration: none;
+}

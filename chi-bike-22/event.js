@@ -133,6 +133,7 @@ function loadEnd() {
       padding: 20
     }
   );
+  showAllLayers();
 }
 
 function loadNextEvent() {

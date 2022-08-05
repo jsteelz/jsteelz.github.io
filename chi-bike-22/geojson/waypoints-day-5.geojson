@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "wake up"
+        "title": "wake up"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "coffee and crosswords at local coffee shop"
+        "title": "coffee and crosswords at local coffee shop"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "cloying asphalt smell"
+        "title": "cloying asphalt smell"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "find source of cloying asphalt smell"
+        "title": "find source of cloying asphalt smell"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "snacks and gatorade"
+        "title": "snacks and gatorade"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "bad headwinds"
+        "title": "bad headwinds"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "bad headwinds and roadkill everywhere"
+        "title": "bad headwinds and roadkill everywhere"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "worst stench ever"
+        "title": "worst stench ever"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "good god i need a break from this wind"
+        "title": "good god i need a break from this wind"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "meet dude on like $10000 racing bike in middle of nowhere"
+        "title": "meet dude on like $10000 racing bike in middle of nowhere"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "curse at everything, why would a benevolent god do this to me, volume 11/10"
+        "title": "curse at everything, why would a benevolent god do this to me, volume 11/10"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "devour farmers market golden raspberries"
+        "title": "devour farmers market golden raspberries"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "respite from hell"
+        "title": "respite from hell"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "somewhat resigned now, volume 5/10"
+        "title": "somewhat resigned now, volume 5/10"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "can't get off hell road because of road closure"
+        "title": "can't get off hell road because of road closure"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "finally off hell roads on nice rail trail"
+        "title": "finally off hell roads on nice rail trail"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "beef on weck at restaurant i am catastrophically underdressed for"
+        "title": "beef on weck at restaurant i am catastrophically underdressed for"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +243,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "i am going to die on this hell suburban road"
+        "title": "i am going to die on this hell suburban road"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +257,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "good god im here and alive"
+        "title": "good god im here and alive"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +271,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "buffalo-style pizza and kind bartender"
+        "title": "buffalo-style pizza and kind bartender"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +285,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "needed sleep"
+        "title": "needed sleep"
       },
       "geometry": {
         "type": "Point",

@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "hurriedly pack up tent before it starts pouring"
+        "title": "hurriedly pack up tent before it starts pouring"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "weary",
-        "description": "wait out crazy downpour under i90 bridge"
+        "title": "wait out crazy downpour under i90 bridge"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "just barely make it to pemberton iga grocery store before second thunderstorm"
+        "title": "just barely make it to pemberton iga grocery store before second thunderstorm"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "make it to flatlands coffee mostly dry and enjoy incredible coffee and buy beans for adrian"
+        "title": "make it to flatlands coffee mostly dry and enjoy incredible coffee and buy beans for adrian"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "make it to gas station in light rain"
+        "title": "make it to gas station in light rain"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "rain has subsided and i'm going gigafast"
+        "title": "rain has subsided and i'm going gigafast"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "enjoy surprisingly good pizza and fries in tiny town with no other businesses"
+        "title": "enjoy surprisingly good pizza and fries in tiny town with no other businesses"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "why am i doing a 15 minute loop just to get to a crappy campground"
+        "title": "why am i doing a 15 minute loop just to get to a crappy campground"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "set up tent uberquick before rain comes back and hide out in it for like 4 hours before sleep"
+        "title": "set up tent uberquick before rain comes back and hide out in it for like 4 hours before sleep"
       },
       "geometry": {
         "type": "Point",

@@ -105,13 +105,34 @@ function loadStart() {
   }
   currentPopup = null;
   document.getElementById('text').innerHTML = DEFAULT_PAGE_HTML;
+  document.getElementById('side-image').innerHTML = '';
+  map.fitBounds(
+    new mapboxgl.LngLatBounds(
+      [-73.565784,45.532977], 
+      [-88.159968, 41.235421]
+    ), 
+    {
+      padding: 20
+    }
+  );
+  showAllLayers();
 }
 
 function loadEnd() {
   if (currentPopup) {
     currentPopup.remove();
   }
+  document.getElementById('side-image').innerHTML = '';
   document.getElementById('text').innerHTML = END_PAGE_HTML;
+  map.fitBounds(
+    new mapboxgl.LngLatBounds(
+      [-73.565784,45.532977], 
+      [-88.159968, 41.235421]
+    ), 
+    {
+      padding: 20
+    }
+  );
 }
 
 function loadNextEvent() {
@@ -173,7 +194,7 @@ function displayEvent() {
   }
   currentPopup = new mapboxgl.Popup()
     .setLngLat(currentWaypointData[activeDayEvent].geometry.coordinates.slice())
-    .setHTML(currentWaypointData[activeDayEvent].properties.description)
+    .setHTML(currentWaypointData[activeDayEvent].properties.title)
     .addTo(map);
   
   map.setCenter(currentWaypointData[activeDayEvent].geometry.coordinates.slice());
@@ -185,11 +206,24 @@ jsteelz
 <div id="subtitle">
 day ${activeDay} "${DAY_INFO[activeDay]}"
 </div>
-<div id="story">
-${currentWaypointData[activeDayEvent].properties.description}
+<div id="story-title">
+${EMOJI[currentWaypointData[activeDayEvent].properties['marker-symbol']]} ${currentWaypointData[activeDayEvent].properties.title}
 </div>
-<div id="reset-button" onclick="loadStart()">
-reset
+<div id="story">
+${currentWaypointData[activeDayEvent].properties.description || ''}
+</div>
+<div id="reset-button">
+<span onclick="loadStart()">reset</span>
 </div>
 `;
+
+  document.getElementById('side-image').innerHTML = `
+${currentWaypointData[activeDayEvent].properties.image ?
+`
+<a target="_blank" href="./img/${currentWaypointData[activeDayEvent].properties.image}.JPG">
+<img src="./img/${currentWaypointData[activeDayEvent].properties.image}-small.JPG">
+</a>
+`
+  : ''}
+  `;
 }

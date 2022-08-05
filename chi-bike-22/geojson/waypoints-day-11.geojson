@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "finally decide to pack up wet tent after procrastinating for an hour"
+        "title": "finally decide to pack up wet tent after procrastinating for an hour"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "underwhelming biscuit sandwich at timmies"
+        "title": "underwhelming biscuit sandwich at timmies"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "liquids and toothpaste restock at rite-aid"
+        "title": "liquids and toothpaste restock at rite-aid"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "too many trucks on this road"
+        "title": "too many trucks on this road"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "blow thru road closed sign because i dont wanna find detour, construction workers don't care anyways"
+        "title": "blow thru road closed sign because i dont wanna find detour, construction workers don't care anyways"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "made it to indiana"
+        "title": "made it to indiana"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "no shoulder and only big trucks wow great welcome indiana"
+        "title": "no shoulder and only big trucks wow great welcome indiana"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "have i mentioned this road sucks"
+        "title": "have i mentioned this road sucks"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "have i mentioned this road sucks"
+        "title": "have i mentioned this road sucks"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "circle k food sucks i couldn't even finish that sando"
+        "title": "circle k food sucks i couldn't even finish that sando"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "ok those pancakes were fire though wow good stuff"
+        "title": "ok those pancakes were fire though wow good stuff"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "its broiling theres no shade and this road is in dire condition"
+        "title": "its broiling theres no shade and this road is in dire condition"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "warm welcome at pretty state park"
+        "title": "warm welcome at pretty state park"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "pitch tent, nice chat with woman at general store, retiree invites me for dinner in his rv"
+        "title": "pitch tent, nice chat with woman at general store, retiree invites me for dinner in his rv"
       },
       "geometry": {
         "type": "Point",

@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "best western continental breakfast"
+        "title": "best western continental breakfast"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "scream/sing i hate suburbs volume 4/10"
+        "title": "scream/sing i hate suburbs volume 4/10"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "weary",
-        "description": "yo its a rest day chill with this hill"
+        "title": "yo its a rest day chill with this hill"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "have very good coffee at duck rabbit and charge phone"
+        "title": "have very good coffee at duck rabbit and charge phone"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "incredible puerto rican food omg yes"
+        "title": "incredible puerto rican food omg yes"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "chill on nice rail trail and watch the trains go by"
+        "title": "chill on nice rail trail and watch the trains go by"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "get back wheel tuned for free by ohio city bike coop wow yall the best"
+        "title": "get back wheel tuned for free by ohio city bike coop wow yall the best"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "shower and put street clothes on"
+        "title": "shower and put street clothes on"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "eat incredible bbq, meet trucker, meet insurance guy"
+        "title": "eat incredible bbq, meet trucker, meet insurance guy"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "catch baseball game"
+        "title": "catch baseball game"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "zzz"
+        "title": "zzz"
       },
       "geometry": {
         "type": "Point",

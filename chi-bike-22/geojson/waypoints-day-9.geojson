@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "too fancy hotel doesnt have breakfast"
+        "title": "too fancy hotel doesnt have breakfast"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "find coffee that hotel wont offer me"
+        "title": "find coffee that hotel wont offer me"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "have delicious lox on bagel, meet beautiful puppy named kangaroo"
+        "title": "have delicious lox on bagel, meet beautiful puppy named kangaroo"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "beautiful forest trail by river"
+        "title": "beautiful forest trail by river"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "wow the gas station old-fashioned donut was pretty good"
+        "title": "wow the gas station old-fashioned donut was pretty good"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "nearly get ended by pickup truck driver not knowing width of trailer"
+        "title": "nearly get ended by pickup truck driver not knowing width of trailer"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "feeling great because i'm on a rail trail for the rest of the day"
+        "title": "feeling great because i'm on a rail trail for the rest of the day"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "ok gas station chicken sandwich"
+        "title": "ok gas station chicken sandwich"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "hubris wrong turn"
+        "title": "hubris wrong turn"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "circle k's are the worst gas stations foodwise"
+        "title": "circle k's are the worst gas stations foodwise"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "eat and charge phone at subway and overhear local softball team gossip"
+        "title": "eat and charge phone at subway and overhear local softball team gossip"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "pull up to sketch campground and set up tent and pray it doesn't rain too hard and call mom"
+        "title": "pull up to sketch campground and set up tent and pray it doesn't rain too hard and call mom"
       },
       "geometry": {
         "type": "Point",

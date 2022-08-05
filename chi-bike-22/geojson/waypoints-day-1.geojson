@@ -5,7 +5,9 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "house",
-        "description": "left home"
+        "title": "left home",
+        "description": "Noé - my roommate - and I left the house at the same time - he for the train to Ottawa, me for Chicago. He gallantly took a photo of me next to our week's trash and I got on the road.",
+        "image": "IMG_2812"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +21,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "meet french dude on gt"
+        "title": "meet french dude on gt",
+        "description": "Right as I pulled onto des Érables, I noticed a person on an old GT bike riding alongside. I complimented him on the bike, and we got to talking. Turns out he was commuting to his job in Longueuil so we took the Jacques-Cartier together as he asked me about my trip. I peeled off at Île Ste-Hélène and we made our goodbyes."
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +36,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "blocked by tandem bike race"
+        "title": "blocked by tandem bike race",
+        "description": "As I made it to the Circuit Gilles-Villeneuve my path was blocked, and on the track I noticed that tandem cyclists were racing. I did not know this existed. I watched for a bit before the security guard gruffly gave me detour instructions."
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +51,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "make horrible decision to get on snowmobile path"
+        "title": "make horrible decision to get on snowmobile path"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +65,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "wrong turn costs me x km"
+        "title": "wrong turn costs me x km"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +79,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "cute stop at gas station in howick"
+        "title": "cute stop at gas station in howick"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +93,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "bike path turns to shit, another detour"
+        "title": "bike path turns to shit, another detour"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +107,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "curse at headwinds, volume 9/10"
+        "title": "curse at headwinds, volume 9/10"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +121,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "tranquil rural road"
+        "title": "tranquil rural road"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +135,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "go to casse-croûte forgetting i have no cash"
+        "title": "go to casse-croûte forgetting i have no cash"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "gatorade restock at pharmacy in lieu of actual food"
+        "title": "gatorade restock at pharmacy in lieu of actual food"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +163,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "lol another wrong turn"
+        "title": "lol another wrong turn"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +177,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "joy",
-        "description": "lol i cross smellie road"
+        "title": "lol i cross smellie road"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +191,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "take deep breath, stop pushing too hard"
+        "title": "take deep breath, stop pushing too hard"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +205,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "us customs people just wave me thru thank u"
+        "title": "us customs people just wave me thru thank u"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +219,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "onion rings yum yum"
+        "title": "onion rings yum yum"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +233,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "buy sub and water at twinleaf for night"
+        "title": "buy sub and water at twinleaf for night"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +247,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "catch draft behind amish horsecart"
+        "title": "catch draft behind amish horsecart"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +261,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "lovely forest gravel road"
+        "title": "lovely forest gravel road"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +275,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "pitch tent megaquick because mosquitoes eating me alive"
+        "title": "pitch tent megaquick because mosquitoes eating me alive"
       },
       "geometry": {
         "type": "Point",

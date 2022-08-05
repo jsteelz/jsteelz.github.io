@@ -1,19 +1,19 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoianN0ZWVsZTI4IiwiYSI6ImNrYmtyc2ZyZDA2ejAydW1zaWZldGRsZ3MifQ.txe5BQOwSctEHqqntl8-Nw';
 const NUM_DAYS = 13;
-const EMOJI = [
-  'cry',
-  'curse',
-  'facepalm',
-  'gas',
-  'grin',
-  'hand-covering-mouth',
-  'hotel',
-  'house',
-  'joy',
-  'tent',
-  'weary',
-  'yum'
-];
+const EMOJI = {
+  'cry': '😢',
+  'curse': '🤬',
+  'facepalm': '🤦',
+  'gas': '⛽️',
+  'grin': '😁',
+  'hand-covering-mouth': '🙈',
+  'hotel': '🏨',
+  'house': '🏠',
+  'joy': '😂',
+  'tent': '⛺️',
+  'weary': '😩',
+  'yum': '😋',
+};
 
 const map = new mapboxgl.Map({
   container: 'map', // container id
@@ -42,7 +42,7 @@ const map = new mapboxgl.Map({
 });
 
 map.on('load', () => {
-  for (const emoji of EMOJI) {
+  for (const emoji of Object.keys(EMOJI)) {
     map.loadImage(`./img/${emoji}.png`, (error, image) => {
       if (error) {
         console.log('could not load image!');

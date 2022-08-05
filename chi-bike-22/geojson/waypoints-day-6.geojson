@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "hampton inn continental breakfast"
+        "title": "hampton inn continental breakfast"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "fail at traffic circle in front of cops"
+        "title": "fail at traffic circle in front of cops"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "gas station with no bathrooms"
+        "title": "gas station with no bathrooms"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "epic hillbomb"
+        "title": "epic hillbomb"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "irrigate disused driveway in front of i-90 traffic"
+        "title": "irrigate disused driveway in front of i-90 traffic"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "delicious berries and peach at farm stand"
+        "title": "delicious berries and peach at farm stand"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "white chocolate reeses are weird and jalapeno queso stuffed pretzel aint my thing"
+        "title": "white chocolate reeses are weird and jalapeno queso stuffed pretzel aint my thing"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "finally out of new york"
+        "title": "finally out of new york"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "i am going to die on this road"
+        "title": "i am going to die on this road"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "meet mark the fellow bike tourer"
+        "title": "meet mark the fellow bike tourer"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "pit stop"
+        "title": "pit stop"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "early dinner at awesome diner"
+        "title": "early dinner at awesome diner"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "early night at campground"
+        "title": "early night at campground"
       },
       "geometry": {
         "type": "Point",

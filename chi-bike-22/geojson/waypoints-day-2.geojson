@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "wake up early and gtfo because mosquitoes are eating me alive"
+        "title": "wake up early and gtfo because mosquitoes are eating me alive"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "more lovely forest gravel roads with sunbreaks in cool morning weather"
+        "title": "more lovely forest gravel roads with sunbreaks in cool morning weather"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "town line market refuel"
+        "title": "town line market refuel"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "lol another wrong turn"
+        "title": "lol another wrong turn"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "stop at hippie coffee house"
+        "title": "stop at hippie coffee house"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "pretty bridge"
+        "title": "pretty bridge"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "fruit cup at price chopper"
+        "title": "fruit cup at price chopper"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "doritos and diet arnold palmer at stewarts"
+        "title": "doritos and diet arnold palmer at stewarts"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "dunkin"
+        "title": "dunkin"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "stop at trumpy stewarts"
+        "title": "stop at trumpy stewarts"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "blow through road closed sign"
+        "title": "blow through road closed sign"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "best western is booked"
+        "title": "best western is booked"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "comfort inn is booked"
+        "title": "comfort inn is booked"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "hampton inn is booked"
+        "title": "hampton inn is booked"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "call 4 more hotels they're all booked, get ripped off for room at hilton garden inn but at least i got a place to stay. also order bomb filipino food to hilton"
+        "title": "call 4 more hotels they're all booked, get ripped off for room at hilton garden inn but at least i got a place to stay. also order bomb filipino food to hilton"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "meet trikers from peterborough ontario who also got screwed over trying to find last-minute hotel, devour bomb filipino food"
+        "title": "meet trikers from peterborough ontario who also got screwed over trying to find last-minute hotel, devour bomb filipino food"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "at least i have a shower and comfy bed"
+        "title": "at least i have a shower and comfy bed"
       },
       "geometry": {
         "type": "Point",

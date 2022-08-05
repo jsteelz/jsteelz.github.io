@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "wake up lets do this"
+        "title": "wake up lets do this"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "croissant bec and watery coffee"
+        "title": "croissant bec and watery coffee"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "horrible stroad"
+        "title": "horrible stroad"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "staredown with mean-looking geese in the way of 10% descent"
+        "title": "staredown with mean-looking geese in the way of 10% descent"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "weary",
-        "description": "ok fr these hills are fr"
+        "title": "ok fr these hills are fr"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "banana and payday"
+        "title": "banana and payday"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "omg delicious incredible fresh warm crispy gas station donut"
+        "title": "omg delicious incredible fresh warm crispy gas station donut"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "yo this road sucks some f-250 with a gigaboat gna run me over"
+        "title": "yo this road sucks some f-250 with a gigaboat gna run me over"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "dans chicken shack rocks my world"
+        "title": "dans chicken shack rocks my world"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "midday coffee break"
+        "title": "midday coffee break"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "irrigate suny oswego bushes"
+        "title": "irrigate suny oswego bushes"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "weary",
-        "description": "hard hills oof"
+        "title": "hard hills oof"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "i scream for mint chip"
+        "title": "i scream for mint chip"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "crappy pizza and local blueberries"
+        "title": "crappy pizza and local blueberries"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "beers on terrasse with nice couple that lived in the siskiyews"
+        "title": "beers on terrasse with nice couple that lived in the siskiyews"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "sick sunset over lake ontario"
+        "title": "sick sunset over lake ontario"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "less buggy campsite, nice"
+        "title": "less buggy campsite, nice"
       },
       "geometry": {
         "type": "Point",

@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "early morning at campground"
+        "title": "early morning at campground"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "worst 'bike path' evar"
+        "title": "worst 'bike path' evar"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "donuts and coffee and local gossip"
+        "title": "donuts and coffee and local gossip"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "stock up for the day"
+        "title": "stock up for the day"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "pretty forested state park"
+        "title": "pretty forested state park"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "cry",
-        "description": "this town is depleted i cant even find a coffee shop the roads are a tragedy oof"
+        "title": "this town is depleted i cant even find a coffee shop the roads are a tragedy oof"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "chill rail trail"
+        "title": "chill rail trail"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "eat my dunkies while local schoolkids give me weird looks"
+        "title": "eat my dunkies while local schoolkids give me weird looks"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "arrive at suburban best western"
+        "title": "arrive at suburban best western"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "have ok salad/sandwich from local italian deli"
+        "title": "have ok salad/sandwich from local italian deli"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "have an sleep"
+        "title": "have an sleep"
       },
       "geometry": {
         "type": "Point",

@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "wake up, bugs have arrived, gtfo before i am eaten alive, steve says goodbye"
+        "title": "wake up, bugs have arrived, gtfo before i am eaten alive, steve says goodbye"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "breakfast at half acre cafe, meet some locals, learn that i don't like corned beef hash"
+        "title": "breakfast at half acre cafe, meet some locals, learn that i don't like corned beef hash"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "last stock up for 60km at gas station with bad vibes"
+        "title": "last stock up for 60km at gas station with bad vibes"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "witness a crop duster crop-dust for the first time"
+        "title": "witness a crop duster crop-dust for the first time"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "do some crop irrigation of my own and hope the crop-duster overhead doesn't catch me"
+        "title": "do some crop irrigation of my own and hope the crop-duster overhead doesn't catch me"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "another last stock-up for 60km, the egg and cheese biscuit was lukewarm, also its hot as hell out"
+        "title": "another last stock-up for 60km, the egg and cheese biscuit was lukewarm, also its hot as hell out"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "hubris missed turn"
+        "title": "hubris missed turn"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "meet kindest librarian who also works at county bike coalition who gives me water and local bikeway map"
+        "title": "meet kindest librarian who also works at county bike coalition who gives me water and local bikeway map"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "holy freaking frick how did i make it to valpo through this"
+        "title": "holy freaking frick how did i make it to valpo through this"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "i am going to die on this road"
+        "title": "i am going to die on this road"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "description": "first ever chipotle experience hits the spot sooooo hard omg yes"
+        "title": "first ever chipotle experience hits the spot sooooo hard omg yes"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "holiday inn, shower and order chipotle for delivery for dinner because no sidewalks for 1km radius"
+        "title": "holiday inn, shower and order chipotle for delivery for dinner because no sidewalks for 1km radius"
       },
       "geometry": {
         "type": "Point",

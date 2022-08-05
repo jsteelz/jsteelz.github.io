@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "description": "wake up in clammy tent"
+        "title": "wake up in clammy tent"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "breakfast with kind local warmshowers host"
+        "title": "breakfast with kind local warmshowers host"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "coffee at local roastery with no bathroom"
+        "title": "coffee at local roastery with no bathroom"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "weary",
-        "description": "broe i am dying where is the bathrooms"
+        "title": "broe i am dying where is the bathrooms"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "irrigate dumpster behind gas station with no public restrooms"
+        "title": "irrigate dumpster behind gas station with no public restrooms"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "purchase water as if i did not already wrong this establishment"
+        "title": "purchase water as if i did not already wrong this establishment"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "these suburbs suck"
+        "title": "these suburbs suck"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "weary",
-        "description": "full body shivering after gigahill while i have no energy left"
+        "title": "full body shivering after gigahill while i have no energy left"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "try to get some energy at cvs"
+        "title": "try to get some energy at cvs"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "trying the rochester culinary centrepiece"
+        "title": "trying the rochester culinary centrepiece"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "shower at hotel and change"
+        "title": "shower at hotel and change"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "chill at nice local bar with nice people"
+        "title": "chill at nice local bar with nice people"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "watch baseball and zzz"
+        "title": "watch baseball and zzz"
       },
       "geometry": {
         "type": "Point",

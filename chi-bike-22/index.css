@@ -9,8 +9,9 @@ html, body {
 
 #text {
   padding: 25px;
-  width: 100%;
+  width: 60%;
   height: 50%;
+  left: 0;
   position: absolute;
   top: 0;
   margin: 0;
@@ -43,14 +44,35 @@ html, body {
   font-size: 15px;
 }
 
+#story-title {
+  padding-top: 10px;
+  color: #3d265e;
+  font-size: 17.5px;
+}
+
 #story {
   padding-top: 10px;
   color: #3d265e;
   font-size: 15px;
 }
 
+img {
+  position: absolute;
+  right: 10px;
+}
+
+#side-image {
+  padding: 25px;
+  width: 40%;
+  height: 50%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+}
+
 #reset-button {
-  padding-top: 10px;
+  padding-top: 50px;
   cursor: pointer;
 }
 
@@ -64,9 +86,23 @@ html, body {
   background-color: gainsboro;
 }
 
-.mapboxgl-popup-tip {
-  display: none;
-}
+mapboxgl-popup-anchor-top .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-top-left .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-top-right .mapboxgl-popup-tip {
+    border-bottom-color: gainsboro;
+    }
+.mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-bottom-left .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-bottom-right .mapboxgl-popup-tip {
+    border-top-color: gainsboro;
+    }
+.mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
+    border-right-color: gainsboro;
+    }
+.mapboxgl-popup-anchor-right .mapboxgl-popup-tip {
+    border-left-color: gainsboro;
+    }
+
 
 .mapboxgl-popup-close-button {
   display: none;

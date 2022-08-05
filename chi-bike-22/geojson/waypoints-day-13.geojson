@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "holiday inn continental breakfast"
+        "title": "holiday inn continental breakfast"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "curse at headwind volume 6/10"
+        "title": "curse at headwind volume 6/10"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "indiana can't even pave bike paths volume 7/10"
+        "title": "indiana can't even pave bike paths volume 7/10"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "description": "donut from the case with fruit flies in it and gatorade"
+        "title": "donut from the case with fruit flies in it and gatorade"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "explain to guy on bike that i'm not cussing at him just the state of indiana in general"
+        "title": "explain to guy on bike that i'm not cussing at him just the state of indiana in general"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "freight train blocks my escape from indiana 1"
+        "title": "freight train blocks my escape from indiana 1"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "freight train blocks my escape from indiana 2"
+        "title": "freight train blocks my escape from indiana 2"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "hubris wrong turn"
+        "title": "hubris wrong turn"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "out of indiana thank god"
+        "title": "out of indiana thank god"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "description": "hubris wrong turn"
+        "title": "hubris wrong turn"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "how long do i have to be on this stroad for with a pointless 'bike lane'"
+        "title": "how long do i have to be on this stroad for with a pointless 'bike lane'"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "finally on the nice lakefront bike trail"
+        "title": "finally on the nice lakefront bike trail"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "description": "would it bother you so much to just like chill with the wind on my last day???"
+        "title": "would it bother you so much to just like chill with the wind on my last day???"
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +187,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "omfg i actually made it to chicago moment"
+        "title": "omfg i actually made it to chicago moment"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +201,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "i meet dude who needs a pump, we start chatting"
+        "title": "i meet dude who needs a pump, we start chatting"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "dude who needs a pump buys me a modelo and a fish sandwich"
+        "title": "dude who needs a pump buys me a modelo and a fish sandwich"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "needed the break, my legs feel great"
+        "title": "needed the break, my legs feel great"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +243,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "enjoying the beauty of chicago"
+        "title": "enjoying the beauty of chicago"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +257,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "description": "omg i made it i made it i made it"
+        "title": "omg i made it i made it i made it"
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +271,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "reunite with brother at ravinia park"
+        "title": "reunite with brother at ravinia park"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +285,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "description": "barely avoid fare enforcement on metra because the dumb app wouldn't download and i cant pay in cash or at station"
+        "title": "barely avoid fare enforcement on metra because the dumb app wouldn't download and i cant pay in cash or at station"
       },
       "geometry": {
         "type": "Point",
@@ -299,7 +299,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "description": "reunite with family in glencoe"
+        "title": "reunite with family in glencoe"
       },
       "geometry": {
         "type": "Point",

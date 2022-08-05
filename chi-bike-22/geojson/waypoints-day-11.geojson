@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "finally decide to pack up wet tent after procrastinating for an hour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24068301916122,
+          41.29360185506441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "underwhelming biscuit sandwich at timmies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36126172542572,
+          41.29465581973808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "liquids and toothpaste restock at rite-aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36151385307312,
+          41.295425626386454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "too many trucks on this road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40289497375488,
+          41.311597526108635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-covering-mouth",
+        "description": "blow thru road closed sign because i dont wanna find detour, construction workers don't care anyways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74784851074219,
+          41.324877003600434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "made it to indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80434656143188,
+          41.3252476298123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "no shoulder and only big trucks wow great welcome indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82063293457031,
+          41.33667155154352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "have i mentioned this road sucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85779762268066,
+          41.35284530001043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "have i mentioned this road sucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96826171874999,
+          41.36263780816235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "circle k food sucks i couldn't even finish that sando"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.05911350250244,
+          41.351975499430104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "ok those pancakes were fire though wow good stuff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13576030731201,
+          41.35007478364319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "its broiling theres no shade and this road is in dire condition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.24497985839844,
+          41.35129897983286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "warm welcome at pretty state park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.40202856063843,
+          41.3412953339141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "pitch tent, nice chat with woman at general store, retiree invites me for dinner in his rv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37328600883484,
+          41.32928409617416
+        ]
+      }
+    }
+  ]
+}

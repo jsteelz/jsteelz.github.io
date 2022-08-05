@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "best western continental breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.33883595466614,
+          41.66623586805238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "scream/sing i hate suburbs volume 4/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36174201965332,
+          41.653803770378794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "description": "yo its a rest day chill with this hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40296220779418,
+          41.626831256839836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "have very good coffee at duck rabbit and charge phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71467244625092,
+          41.480020908607976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "incredible puerto rican food omg yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70799374580383,
+          41.47230406367111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "chill on nice rail trail and watch the trains go by"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72204852104187,
+          41.47554766198621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "get back wheel tuned for free by ohio city bike coop wow yall the best"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7012506723404,
+          41.48985453504891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "shower and put street clothes on"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69416427612305,
+          41.501570957496334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "eat incredible bbq, meet trucker, meet insurance guy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69027507305145,
+          41.499007668965184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "catch baseball game"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68559193611144,
+          41.49552416597727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "zzz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69416427612305,
+          41.501570957496334
+        ]
+      }
+    }
+  ]
+}

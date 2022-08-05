@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "wake up in clammy tent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6975200176239,
+          43.33538565816447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "breakfast with kind local warmshowers host"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69697284698486,
+          43.33455846999541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "coffee at local roastery with no bathroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05583095550537,
+          43.23633183762483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "broe i am dying where is the bathrooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13294982910155,
+          43.23163404452711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-covering-mouth",
+        "description": "irrigate dumpster behind gas station with no public restrooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30688035488129,
+          43.22600559596996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "purchase water as if i did not already wrong this establishment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30673551559448,
+          43.22591960175278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "these suburbs suck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44640350341797,
+          43.19372579233989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "description": "full body shivering after gigahill while i have no energy left"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52841472625732,
+          43.14953233802909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "try to get some energy at cvs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55422830581665,
+          43.149140964226035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "trying the rochester culinary centrepiece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59424686431885,
+          43.14636996602024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "shower at hotel and change"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5933027267456,
+          43.15623226883234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gin",
+        "description": "chill at nice local bar with nice people"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59520709514618,
+          43.15375118850719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "watch baseball and zzz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5933027267456,
+          43.15623226883234
+        ]
+      }
+    }
+  ]
+}

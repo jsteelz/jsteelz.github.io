@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "hampton inn continental breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78907442092896,
+          42.8299834197012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-over-mouth",
+        "description": "fail at traffic circle in front of cops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.82952213287354,
+          42.715835782581465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "gas station with no bathrooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.94078016281128,
+          42.594306652738446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "epic hillbomb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.97886753082275,
+          42.54289986764645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-over-mouth",
+        "description": "irrigate disused driveway in front of i-90 traffic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.17532324790955,
+          42.51215092771376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "delicious berries and peach at farm stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.268701672554,
+          42.47248467716824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "white chocolate reeses are weird and jalapeno queso stuffed pretzel aint my thing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.30748105049133,
+          42.451292406150905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "finally out of new york"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.76181507110596,
+          42.26763925645318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "i am going to die on this road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.82747554779051,
+          42.23932079260359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "meet mark the fellow bike tourer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.89786744117737,
+          42.21445423197747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "pit stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.99789237976074,
+          42.17011503950559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "early dinner at awesome diner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.06089210510254,
+          42.133964107266216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "early night at campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07754325866699,
+          42.14975732645718
+        ]
+      }
+    }
+  ]
+}

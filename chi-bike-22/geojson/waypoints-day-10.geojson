@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "hurriedly pack up tent before it starts pouring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.206125497818,
+          41.40507644298273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "description": "wait out crazy downpour under i90 bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26138973236084,
+          41.44888665978769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "just barely make it to pemberton iga grocery store before second thunderstorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.45483064651489,
+          41.41420131567136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "make it to flatlands coffee mostly dry and enjoy incredible coffee and buy beans for adrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.65027785301208,
+          41.375544595107314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "make it to gas station in light rain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7949401140213,
+          41.34475892794065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "rain has subsided and i'm going gigafast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.82885932922363,
+          41.34285800146901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "enjoy surprisingly good pizza and fries in tiny town with no other businesses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20007705688475,
+          41.32249205407183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "why am i doing a 15 minute loop just to get to a crappy campground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.25603866577148,
+          41.29186670595566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "set up tent uberquick before rain comes back and hide out in it for like 4 hours before sleep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24068301916122,
+          41.29360185506441
+        ]
+      }
+    }
+  ]
+}

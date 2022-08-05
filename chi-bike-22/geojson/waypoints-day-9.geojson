@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "too fancy hotel doesnt have breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69416427612305,
+          41.501570957496334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "find coffee that hotel wont offer me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69110655784607,
+          41.5006489084939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "have delicious lox on bagel, meet beautiful puppy named kangaroo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7163622379303,
+          41.487435448649784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "beautiful forest trail by river"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.84538722038269,
+          41.43577726358253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "wow the gas station old-fashioned donut was pretty good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9768476486206,
+          41.38609839831861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "nearly get ended by pickup truck driver not knowing width of trailer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.07551002502441,
+          41.34337351243667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "feeling great because i'm on a rail trail for the rest of the day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.15825080871582,
+          41.33602709588135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "ok gas station chicken sandwich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39208579063416,
+          41.25427862447295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "description": "hubris wrong turn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.61740207672119,
+          41.24467553887315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "circle k's are the worst gas stations foodwise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.84338355064392,
+          41.27401677934537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "eat and charge phone at subway and overhear local softball team gossip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13179612159729,
+          41.35505196415311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "pull up to sketch campground and set up tent and pray it doesn't rain too hard and call mom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.206125497818,
+          41.40507644298273
+        ]
+      }
+    }
+  ]
+}

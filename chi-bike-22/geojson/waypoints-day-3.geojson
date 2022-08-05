@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "wake up lets do this"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.94742149114609,
+          43.979790806143285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "croissant bec and watery coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.94442009925842,
+          43.97669005685517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "horrible stroad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.95793575048447,
+          43.974379589366706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "staredown with mean-looking geese in the way of 10% descent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98517894744873,
+          43.95343651684272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "description": "ok fr these hills are fr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.97513675689697,
+          43.89133618611044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "banana and payday"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08634114265442,
+          43.64682076280052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "omg delicious incredible fresh warm crispy gas station donut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.18756771087646,
+          43.56283122818155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "yo this road sucks some f-250 with a gigaboat gna run me over"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.18915557861328,
+          43.55001001168111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "dans chicken shack rocks my world"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.24718248844147,
+          43.51223416532612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "midday coffee break"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.51138544082642,
+          43.457295865792744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-covering-mouth",
+        "description": "irrigate suny oswego bushes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.54419422149658,
+          43.44905567978509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "description": "hard hills oof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.63315773010254,
+          43.36194333260223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "description": "i scream for mint chip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.70395731925964,
+          43.31611939451389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "crappy pizza and local blueberries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7042738199234,
+          43.31597107873282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "beers on terrasse with nice couple that lived in the siskiyews"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.70264840126036,
+          43.31647066728817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "sick sunset over lake ontario"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69808864593506,
+          43.34453079897872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "less buggy campsite, nice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6975200176239,
+          43.33538565816447
+        ]
+      }
+    }
+  ]
+}

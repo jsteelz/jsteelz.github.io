@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "holiday inn continental breakfast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.027747631073,
+          41.458423488443955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "curse at headwind volume 6/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.09248542785645,
+          41.51429750817789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "indiana can't even pave bike paths volume 7/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.28418827056885,
+          41.523808649571734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "donut from the case with fruit flies in it and gatorade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.41253733634949,
+          41.522153939940445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "explain to guy on bike that i'm not cussing at him just the state of indiana in general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50284194946289,
+          41.59543464151339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "freight train blocks my escape from indiana 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.51367270946503,
+          41.61846620208414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "freight train blocks my escape from indiana 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.51124262809753,
+          41.630179380667535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "description": "hubris wrong turn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5128412246704,
+          41.664352371162956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "out of indiana thank god"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.52464294433594,
+          41.691813909072216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "description": "hubris wrong turn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.53305435180664,
+          41.7139060468972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "how long do i have to be on this stroad for with a pointless 'bike lane'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54034996032715,
+          41.74610146936392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "finally on the nice lakefront bike trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.57613599300385,
+          41.78338506243902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "would it bother you so much to just like chill with the wind on my last day???"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.58111953735352,
+          41.80017520599155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "omfg i actually made it to chicago moment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.59871214628218,
+          41.82685120568592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "i meet dude who needs a pump, we start chatting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61362254619598,
+          41.864523310583955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "dude who needs a pump buys me a modelo and a fish sandwich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61262476444244,
+          41.860691975679956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "needed the break, my legs feel great"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.61357560753822,
+          41.86842132838279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "enjoying the beauty of chicago"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66544818878174,
+          41.998826199468816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "description": "omg i made it i made it i made it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78899073600769,
+          42.13538030783314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "reunite with brother at ravinia park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.77410984039307,
+          42.15761766311444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-covering-mouth",
+        "description": "barely avoid fare enforcement on metra because the dumb app wouldn't download and i cant pay in cash or at station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75902509689331,
+          42.136422547571776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "reunite with family in glencoe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7590411901474,
+          42.13326395146775
+        ]
+      }
+    }
+  ]
+}

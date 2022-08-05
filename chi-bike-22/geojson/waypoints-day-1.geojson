@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "home",
+        "description": "left home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56579959392548,
+          45.53297322786292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "wave",
+        "description": "meet french dude on gt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56527924537659,
+          45.532713941291014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "warning",
+        "description": "blocked by tandem bike race"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52788925170898,
+          45.51294827749632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "make horrible decision to get on snowmobile path"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.69570165872572,
+          45.304183051660075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "wrong turn costs me x km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.74229431152344,
+          45.28181686637888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "cute stop at gas station in howick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85421216487885,
+          45.19172708852265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "bike path turns to shit, another detour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86763393878937,
+          45.18152638006427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "curse at headwinds, volume 9/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87460231781006,
+          45.16694050261985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "tranquil rural road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03841018676758,
+          45.116358308111366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "description": "go to casse-croûte forgetting i have no cash"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17322874069214,
+          45.08757364165738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "gatorade restock at pharmacy in lieu of actual food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17359352111816,
+          45.08635408126547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "description": "lol another wrong turn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17616844177246,
+          45.08567232808564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "joy",
+        "description": "lol i cross smellie road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.25039052963257,
+          45.07500561899931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "take deep breath, stop pushing too hard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.29376989603043,
+          45.06650131786713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "us customs people just wave me thru thank u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50466126203537,
+          44.99565026649659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "onion rings yum yum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4958233833313,
+          44.9882951380248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "description": "buy sub and water at twinleaf for night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50554102659224,
+          44.985457162356404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "catch draft behind amish horsecart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.59931373596191,
+          44.9355799700891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "description": "lovely forest gravel road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71471309661865,
+          44.88351573945066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "description": "pitch tent megaquick because mosquitoes eating me alive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77675259113312,
+          44.86092623800585
+        ]
+      }
+    }
+  ]
+}

@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "title": "wake up early and gtfo because mosquitoes are eating me alive"
+        "title": "wake up early and gtfo because mosquitoes are eating me alive",
+        "description": "I woke up in my clammy sleeping bag after a night of mostly good sleep. It was cold so I went back to sleep and waited for the sun to rise a little more. Eventually, I garnered the will to face the swarm of mosquitoes encircling my tent and hastily packed for the day."
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "more lovely forest gravel roads with sunbreaks in cool morning weather"
+        "title": "more lovely forest gravel roads with sunbreaks in cool morning weather",
+        "description": "The last seven or so kilometres in the forest were lovely - the birds were a full symphony - and I arrived at the Town Line Market just outside of Brasher, NY."
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "town line market refuel"
+        "title": "town line market refuel",
+        "description": "I committed one of two major errors today here - my uncaffeinated brain saw the sub counter but not the breakfast sandwiches under the heat lamp, so I had a turkey sub (full size!) for breakfast. There was a ghastly, overpowering quantity of mayo slathered all over it, so I threw the back half of it out and felt bad about it for the rest of the day. During my caffeination there, I watched as an incredible number of ATVs rolled into the adjoining gas station, and watched the coming and going of passersby as I charged my phone. I had Cowboy Take Me Away going through my head all day after it came on the radio at the Town Line Market."
       },
       "geometry": {
         "type": "Point",
@@ -68,6 +71,21 @@
         "coordinates": [
           -74.98830109834671,
           44.667983320224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "cry",
+        "title": "missing bernese mountain dog",
+        "description": "I saw many posters for a missing Bernese Mountain Dog, Rhonda, which broke my heart. Rhonda seemed beautiful."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.07485866546631,
+          44.63645984325099
         ]
       }
     },
@@ -117,7 +135,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "dunkin"
+        "title": "dunkin",
+        "description": "I comfortably, if uneventfully made my way to Gouverneur, neary my planned camping location for today. However, I was incredibly early, so after enjoying a fruit cup from the Price Chopper and an accidentally “Diet” Arnold Palmer and Cool Ranch Doritos from Stewart’s, I made my way to the Dunkin, got a maple donut, and evaluated my options with the help of the wall charger next to me. I looked for campsites or campgrounds along my route, finding only two realistic options, both of which did not return my calls. So I looked further, realizing that Watertown was only 60 kilometres away and featured a litany of midrange hotel options. I eventually settled on this option, got another water bottle, and hit the road."
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +150,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "stop at trumpy stewarts"
+        "title": "stop at trumpy stewarts",
+        "description": "I passed through Philadelphia, New York, which seems to have turned its city-naming inferiority complex into an astonishingly loud Trumpism. I was glad when I passed into the next town."
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +179,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "facepalm",
-        "title": "best western is booked"
+        "title": "best western is booked",
+        "description": "Upon arriving in Watertown, I naïvely strolled into the Best Western and was told that no rooms were available. I then realized that my plan to find a vacant hotel room on a Saturday was a fool’s errand - my second big mistake of the day."
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +236,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "meet trikers from peterborough ontario who also got screwed over trying to find last-minute hotel, devour bomb filipino food"
+        "title": "meet trikers from peterborough ontario who also got screwed over trying to find last-minute hotel, devour bomb filipino food",
+        "description": "While waiting for my Doordashed Filipino repast I chatted with a pair of trikers from Peterborough, Ontario, who had made my same mistake - only they were old enough to know better. I had a nice chat with them before they went in. The Filipino food was delicious, the lumpia still crispy and the ssig unctuous and perfectly seasoned. The garlic fried rice itself was to die for. I ate alone on the sorry terrace in front of the hotel."
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +251,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "title": "at least i have a shower and comfy bed"
+        "title": "at least i have a shower and comfy bed",
+        "description": "I made some new resolutions for the trip - fresh veggies or fruit every day, enforced stretching pre/post ride - that hopefully will help me get through the worst to come."
       },
       "geometry": {
         "type": "Point",

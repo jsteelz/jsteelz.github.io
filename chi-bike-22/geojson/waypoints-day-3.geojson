@@ -19,7 +19,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "croissant bec and watery coffee"
+        "title": "croissant bec and watery coffee",
+        "description": "I woke up and hit the Dunkin at the easy on, easy off strip mall by the hotel. I got a baconeggandcheese and an unsatisfying watered-down coffee. Weirdly I felt full after just that - maybe the pork from the night before really was that filling."
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +76,7 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "banana and payday"
+        "title": "banana and baby ruth"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +90,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "omg delicious incredible fresh warm crispy gas station donut"
+        "title": "omg delicious incredible fresh warm crispy gas station donut",
+        "description": "I stopped off at a gas station-market that randomly had homemade donuts. The one they served me was still warm, crispy on the outside and glazed with cinnamon sugar - a delight. I am wondering if maybe I should start leaving my helmet by my bike when I go into stores. The stickers are vehemently anti-car and I guess that doesn’t make people around here inclined to constructive interactions with me."
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +105,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "title": "yo this road sucks some f-250 with a gigaboat gna run me over"
+        "title": "yo this road sucks some f-250 with a gigaboat gna run me over",
+        "description": "Back on NY-3 after the donut, the shoulder was tight and I was passed mostly by pickups either hauling boats or ATVs - not optimal. The turnoff onto the NY-104A helped but wasn’t a panacea either."
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +120,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "dans chicken shack rocks my world"
+        "title": "dans chicken shack rocks my world",
+        "description": "Shortly after the 104A turnoff I made my way to Dan’s Chicken Shack, near Mexico Point in Texas, New York. The chicken was succulent and so were the sides. The company was quite something. As I walked into the namesake shack with my meal I quickly understood my outcast status, as the local crowd of 11am daydrinkers and potty-mouths shot me a telling glance. Undeterred, I claimed a spot in a peculiarly comfortable bar chair by a blown-out window doing an excellent job of siphoning the barbecue’s copious particulate matter directly into my lungs."
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +135,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "midday coffee break"
+        "title": "midday coffee break",
+        "description": "After a scary turn back onto the 104A I made my way to Oswego, where I arrived tired and in need of a long break. I uncharacteristically opted for a post-noon iced coffee at the local roosters. I enjoyed my first sighting of Lake Ontario along the riverside with a Reese’s cookie that was unexpectedly tasty."
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +178,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "i scream for mint chip"
+        "title": "i scream for mint chip",
+        "description": "I made it to Fair Haven without incident and caved into the desire for more sugars. The local ice cream shop provided me with a mint chip scoop that hit the spot as I contemplated how to kill the time. I unsuccessfully rooted around the town park looking for a place to relieve myself but came up empty-handed."
       },
       "geometry": {
         "type": "Point",
@@ -187,7 +193,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "crappy pizza and local blueberries"
+        "title": "crappy pizza and local blueberries",
+        "description": "I opted for the town’s gas station-market, which surprisingly did not have restrooms. I bought a slice of pizza - underwhelming - and some local blueberries for snacking."
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +208,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "beers on terrasse with nice couple that lived in the siskiyews"
+        "title": "beers on terrasse with nice couple that lived in the siskiyous",
+        "description": "I went to a local beer place with a nice garden area. Upon leaving I met some quite lovely older people. They were locals but spent lots of their life near Ashland, Oregon. We talked about the Cascades and the Siskiyous and the West Coast. They wished me well for the trip and we said goodbye."
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +223,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "sick sunset over lake ontario"
+        "title": "sick sunset over lake ontario",
+        "description": "I made my way to the state park, where I set up camp. I decided to visit the beach, where I currently am, hoping that my tent is well-staked and non susceptible to theft. I have decided to see what the sunset over Lake Ontario looks like. The beach is lively and filled with good spirit - if only I had the swimsuit and camp towel I had planned on bringin. I guess I will content myself with people-watching, crosswords, and distant wafts of Doppler-effect bachata from passing jetskis."
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +238,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "title": "less buggy campsite, nice"
+        "title": "less buggy campsite, nice",
+        "description": "The sunset brought me two wonderful encounters. I met two recumbent tricyclists on the way back from the beach, who I enjoyed a lively if brief conversation with, and upon entering my tent a fellow camper said hi. Turns out he’s a local Warmshowers host who loves Surly bikes. We talked about bikes and my trip and he invited me over for breakfast tomorrow at his campsite which I might take him up on it!"
       },
       "geometry": {
         "type": "Point",

@@ -33,7 +33,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "have delicious lox on bagel, meet beautiful puppy named kangaroo"
+        "title": "have delicious lox on bagel, meet beautiful puppy named kangaroo",
+        "description": "Early on, I stopped at Cleveland Bagel Company for a delicious lox sandwich. While I ate, I made acquaintances with Kangaroo, a beautiful puppy, and its owners, who wished me well on my trip."
       },
       "geometry": {
         "type": "Point",

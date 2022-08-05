@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "title": "early morning at campground"
+        "title": "early morning at campground",
+        "description": "I was woken early by raucous birdsong. I wallowed around in my own grime for a bit before finally getting up. I packed up camp and got an early start to the day."
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "title": "worst 'bike path' evar"
+        "title": "worst 'bike path' evar",
+        "description": "The first part of the day was along the Erie Bayfront Parkway, a sad excuse for a bikeway - really just a wide sidewalk with horrible curb cuts. It didn’t help that I had to readjust my tarp a few times before I finally got it into a place that wasn’t interfering with my back wheel."
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +35,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "donuts and coffee and local gossip"
+        "title": "donuts and coffee and local gossip",
+        "description": "I made it to a donut shop in the west of town, where I had two decent donuts and a cup of coffee while watching the ins and outs of the establishment."
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +78,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "cry",
-        "title": "this town is depleted i cant even find a coffee shop the roads are a tragedy oof"
+        "title": "this town is depleted i cant even find a coffee shop the roads are a tragedy oof",
+        "description": "Ashtabula was incredibly depressing, featuring a completely empty downtown and some of the worst-paved streets I’ve seen. I was expecting to stop by but there were no open coffee shops in town."
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +121,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "title": "arrive at suburban best western"
+        "title": "arrive at suburban best western",
+        "description": "I am now in Mentor, Ohio, but wish I had booked two nights in Cleveland. I was worried that today would be too long if I were to go all the way but I think it would have been fine. The hotels in Cleveland were some kind of pricey, though."
       },
       "geometry": {
         "type": "Point",

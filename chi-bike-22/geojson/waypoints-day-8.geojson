@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "title": "best western continental breakfast"
+        "title": "best western continental breakfast",
+        "description": "I woke up early and visited the complimentary breakfast in the Best Western basement. I had orange juice, a banana, cereal, and a singular breakfast sausage. I ate pretty quickly and then got on the road."
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "title": "scream/sing i hate suburbs volume 4/10"
+        "title": "scream/sing i hate suburbs volume 4/10",
+        "description": "The first ten or so kilometres out of Mentor were along Johnnycake Ridge Road, which I sang on repeat in a weird made-up jig that was meant to annoy passing drivers. The suburban roads were predictably annoying but I eventually made it to Lakeshore, where an intermittent bike trail of sorts was available."
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +49,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "have very good coffee at duck rabbit and charge phone"
+        "title": "have very good coffee at duck rabbit and charge phone",
+        "description": "Once in Cleveland I went straight to Duck Rabbit coffee, where I had an odd pastry and a delicious pourover. I caught up with Adrian via text for a while, sipping on the coffee."
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +92,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "get back wheel tuned for free by ohio city bike coop wow yall the best"
+        "title": "get back wheel tuned for free by ohio city bike coop wow yall the best",
+        "description": "I eventually arrived at a bike co-op, where I planned on pumping my tires. I noticed that the brake/rear wheel rubbing was still happening, though (I had noticed it before the trip started, but it was minor) so I asked them to look at it. A very helpful man and I chatted over it for a while, before he eventually decided to true the wheel. That just about fixed the problem. They insisted on not charging me for the service but I objected and gave a donation instead. They wished me well on the rest of my trip and I eventually pedaled off."
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +121,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "eat incredible bbq, meet trucker, meet insurance guy"
+        "title": "eat incredible bbq, meet trucker, meet insurance guy",
+        "description": "I met a trucker at the bar of a delicious barbecue restaurant. We compared gas stations. I also met this insurance agent who was on the verge of retiring. His specialty was defending bicyclists in car accidents. Needless to say, he gave me his business card."
       },
       "geometry": {
         "type": "Point",

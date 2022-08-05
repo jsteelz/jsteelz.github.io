@@ -33,7 +33,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "title": "cloying asphalt smell"
+        "title": "cloying asphalt smell",
+        "description": "The weather forecast showed thunderstorms in the afternoon at both my origin and destination locations so I left pretty quickly. I was greeted with three kilometres (or so it seemed) of tar smell, which was brought to me by the wind and an asphalt plant that I eventually passed upon exiting Rochester."
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +90,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "title": "bad headwinds and roadkill everywhere"
+        "title": "bad headwinds and roadkill everywhere",
+        "description": "I spent most of the day on NY-33, a road that will find a nest in my worst nightmares. The lanes were paved but the shoulders were decrepit, featuring hidden rumble strips, cracked pavement, and an incredible quantity of roadkill, sometimes even blocking the road. It wasn’t just the usual rodents. Entire deer were being picked apart as I dodged them. The landscape was boring and at times smelly well beyond the usual cow-farm odor."
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +161,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "devour farmers market golden raspberries"
+        "title": "devour farmers market golden raspberries",
+        "description": "The anomaly of the day was noticing a small farmers market in Batavia, where I downed a pint of delicious golden raspberries. The market seemed a little deserted but was a welcome break in a difficult day."
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +232,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "beef on weck at restaurant i am catastrophically underdressed for"
+        "title": "beef on weck at restaurant i am catastrophically underdressed for",
+        "description": "Arriving in West Seneca I went to try the local dish, roast beef on kümmelweck, at Schwabl’s, apparently a local institution. It was good but not all that. The interior was fancier than I anticipated and I was underdressed as all heck."
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +275,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "buffalo-style pizza and kind bartender"
+        "title": "buffalo-style pizza and kind bartender",
+        "description": "I showered and got into street clothes to go try Buffalo-style pizza at a nearby spot, made less accessible by sidewalk-less roads and a giant interstate. The pizza was good, the salad was a pizza joint salad, and the bartender, who took my club soda order in stride, was chill. He was sporting a Seattle Kraken hat. He eventually asked me about my trip and seemed taken aback by it. He gave me a fist bump and wished me well."
       },
       "geometry": {
         "type": "Point",

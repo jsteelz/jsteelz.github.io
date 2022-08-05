@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "tent",
-        "title": "wake up, bugs have arrived, gtfo before i am eaten alive, steve says goodbye"
+        "title": "wake up, bugs have arrived, gtfo before i am eaten alive, steve says goodbye",
+        "description": "I woke up to an incredible swarm of mosquitoes which forced me into a very hasty exit from the campground, after a goodbye from Steve, the fishing camper. The sunrise over the campground was quite beautiful."
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +20,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "breakfast at half acre cafe, meet some locals, learn that i don't like corned beef hash"
+        "title": "breakfast at half acre cafe, meet some locals, learn that i don't like corned beef hash",
+        "description": "I arrived for breakfast at Half Acre Cafe shortly thereafter and ordered a lot of food. The biscuits and gravy were okay, but the gravy was too thick for my liking. I learned that corned beef hash isn’t really my thing. The French toast was pretty good. Their placemats featured intentionally misspelled local ads. Some locals said hi and wished me well on my trip."
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +49,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "witness a crop duster crop-dust for the first time"
+        "title": "witness a crop duster crop-dust for the first time",
+        "description": "The hills subsided shortly after the stock-up. I then noticed a biplane flying extremely low in loops in front of me. As I approached I realized I was witnessing my first ever crop-dusting. I hope I did not inhale too many carcinogens as the plane looped and sprayed the adjacent corn fields."
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +106,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "meet kindest librarian who also works at county bike coalition who gives me water and local bikeway map"
+        "title": "meet kindest librarian who also works at county bike coalition who gives me water and local bikeway map",
+        "description": "Running low on water in Wanatah, where no business seemed to be operational, I popped into the rather humble public library. A chipper man occupying the front desk immediately understood my situation and brought me back to the kitchen, where I filled my water bottle and got another. It turns out that this man is on the board of the region’s cycleway council and so he offered route planning advice and gave me a biking map of the region. His kindness and the encounter left me awestruck and illuminated my day immensely. I intend on keeping the map for a while. Upon exiting the town a resident’s lawn had a sign saying “We love our local public library” and I could only agree."
       },
       "geometry": {
         "type": "Point",

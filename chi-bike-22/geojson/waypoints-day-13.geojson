@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "title": "holiday inn continental breakfast"
+        "title": "holiday inn continental breakfast",
+        "description": "My clothes were almost dry as I woke up. I went and ate breakfast. The Holiday Inn Express had an uninspiring hot section so I ate a bagel, a muffin, and cereal. Then I went back to my room, repacked, and got on the road."
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +146,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "curse",
-        "title": "how long do i have to be on this stroad for with a pointless 'bike lane'"
+        "title": "how long do i have to be on this stroad for with a pointless 'bike lane'",
+        "description": "It took longer than expected on gnarly stroads to meet the Lakefront Bike Path - and the wind was once again not helping. The landscape was rather depressing but at least the roads were mostly not busy."
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +203,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "i meet dude who needs a pump, we start chatting"
+        "title": "i meet dude who needs a pump",
+        "description": "As I was riding near the marina a person was on the side of the trail asking passersby if they had a pump. I stopped off and offered to help, and my hand pump was compatible. We got to chatting as he was fixing his bike and he eventually invited me to lunch and beers. Needing a break anyways I resolutely obliged."
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +218,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "dude who needs a pump buys me a modelo and a fish sandwich"
+        "title": "dude who needs a pump buys me a modelo and a fish sandwich",
+        "description": "He is a Chicagoan but spent time in Seattle and interestingly the Philippines - he mentioned it after I brought up my sumptuous Day 2 meal in Watertown. We talked about my trip and urban planning. He was preparing for the Iowa bike ride this Friday which I would love to do one day."
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +233,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "needed the break, my legs feel great"
+        "title": "needed the break, my legs feel great",
+        "description": "We said goodbye and as I pedaled off I felt how much I needed the break. My legs were fresher and mind clearer. I finished the lakefront trail and made it through some beautiful neighbourhoods in Chicago before crossing into Evanston."
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +262,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hotel",
-        "title": "omg i made it i made it i made it"
+        "title": "omg i made it i made it i made it",
+        "description": "The rest of the ride was the expected suburban slog. I made it to the hotel, rejoiced, and texted everyone that I had made it. I showered and then put on street clothes to go see Adrian."
       },
       "geometry": {
         "type": "Point",
@@ -271,7 +277,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "reunite with brother at ravinia park"
+        "title": "reunite with brother at ravinia park",
+        "description": "The hotel was supposed to have a shuttle to Ravinia but it was full so I did another slog - an hour’s walk - to Adrian’s home near Ravinia for the summer. It was boring but at least mostly in the shade. It was so good to see him and remind myself of the original reason for the trip. I missed him so much."
       },
       "geometry": {
         "type": "Point",
@@ -284,8 +291,24 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": "facepalm",
+        "title": "leave credit card at beer joint",
+        "description": "I went for a beer before dinner and left my credit card on the receipt. I only noticed it after I’d boarded the train to Glencoe, where dinner was."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78497815132141,
+          42.16538358382265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "title": "barely avoid fare enforcement on metra because the dumb app wouldn't download and i cant pay in cash or at station"
+        "title": "barely avoid fare enforcement on metra because the dumb app wouldn't download and i cant pay in cash or at station",
+        "description": "I had to dodge the train’s fare inspector as well since the mobile ticketing app wouldn’t download and there were no fare-paying options at the station."
       },
       "geometry": {
         "type": "Point",

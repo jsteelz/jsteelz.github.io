@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "hand-over-mouth",
+        "marker-symbol": "hand-covering-mouth",
         "description": "fail at traffic circle in front of cops"
       },
       "geometry": {
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "hand-over-mouth",
+        "marker-symbol": "hand-covering-mouth",
         "description": "irrigate disused driveway in front of i-90 traffic"
       },
       "geometry": {

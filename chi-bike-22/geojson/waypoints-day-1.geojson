@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "home",
+        "marker-symbol": "house",
         "description": "left home"
       },
       "geometry": {
@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "wave",
+        "marker-symbol": "grin",
         "description": "meet french dude on gt"
       },
       "geometry": {
@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "warning",
+        "marker-symbol": "facepalm",
         "description": "blocked by tandem bike race"
       },
       "geometry": {
@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "curse",
+        "marker-symbol": "facepalm",
         "description": "make horrible decision to get on snowmobile path"
       },
       "geometry": {
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "curse",
+        "marker-symbol": "facepalm",
         "description": "wrong turn costs me x km"
       },
       "geometry": {
@@ -158,7 +158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "curse",
+        "marker-symbol": "facepalm",
         "description": "lol another wrong turn"
       },
       "geometry": {

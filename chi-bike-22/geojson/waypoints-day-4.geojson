@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "gas",
+        "marker-symbol": "weary",
         "description": "broe i am dying where is the bathrooms"
       },
       "geometry": {
@@ -158,7 +158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "gin",
+        "marker-symbol": "grin",
         "description": "chill at nice local bar with nice people"
       },
       "geometry": {

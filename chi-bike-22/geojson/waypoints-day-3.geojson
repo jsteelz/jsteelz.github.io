@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "yum",
+        "marker-symbol": "gas",
         "description": "midday coffee break"
       },
       "geometry": {

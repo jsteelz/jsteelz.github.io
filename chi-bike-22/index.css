@@ -43,6 +43,17 @@ html, body {
   font-size: 15px;
 }
 
+#story {
+  padding-top: 10px;
+  color: #3d265e;
+  font-size: 15px;
+}
+
+#reset-button {
+  padding-top: 10px;
+  cursor: pointer;
+}
+
 .mapboxgl-popup {
   border-radius: 5px;
 }

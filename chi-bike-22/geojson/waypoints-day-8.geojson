@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "best western continental breakfast",
+        "description": "I woke up early and visited the complimentary breakfast in the Best Western basement. I had orange juice, a banana, cereal, and a singular breakfast sausage. I ate pretty quickly and then got on the road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.33883595466614,
+          41.66623586805238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "scream/sing i hate suburbs volume 4/10",
+        "description": "The first ten or so kilometres out of Mentor were along Johnnycake Ridge Road, which I sang on repeat in a weird made-up jig that was meant to annoy passing drivers. The suburban roads were predictably annoying but I eventually made it to Lakeshore, where an intermittent bike trail of sorts was available."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36174201965332,
+          41.653803770378794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "title": "yo its a rest day chill with this hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.40296220779418,
+          41.626831256839836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "finally on lakeshore bike path",
+        "image": "lakefront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.64238691329956,
+          41.53715121164466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "have very good coffee at duck rabbit and charge phone",
+        "description": "Once in Cleveland I went straight to Duck Rabbit coffee, where I had an odd pastry and a delicious pourover. I caught up with Adrian via text for a while, sipping on the coffee.",
+        "image": "duckrabbit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71467244625092,
+          41.480020908607976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "incredible puerto rican food omg yes",
+        "image": "caribe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70799374580383,
+          41.47230406367111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "chill on nice rail trail and watch the trains go by"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.72204852104187,
+          41.47554766198621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "get back wheel tuned for free by ohio city bike coop wow yall the best",
+        "description": "I eventually arrived at a bike co-op, where I planned on pumping my tires. I noticed that the brake/rear wheel rubbing was still happening, though (I had noticed it before the trip started, but it was minor) so I asked them to look at it. A very helpful man and I chatted over it for a while, before he eventually decided to true the wheel. That just about fixed the problem. They insisted on not charging me for the service but I objected and gave a donation instead. They wished me well on the rest of my trip and I eventually pedaled off.",
+        "image": "bikecoop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7012506723404,
+          41.48985453504891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "shower and put street clothes on"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69416427612305,
+          41.501570957496334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "eat incredible bbq, meet trucker, meet insurance guy",
+        "description": "I met a trucker at the bar of a delicious barbecue restaurant. We compared gas stations. I also met this insurance agent who was on the verge of retiring. His specialty was defending bicyclists in car accidents. Needless to say, he gave me his business card."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69027507305145,
+          41.499007668965184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "catch baseball game",
+        "image": "bball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.68559193611144,
+          41.49552416597727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "zzz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.69416427612305,
+          41.501570957496334
+        ]
+      }
+    }
+  ]
+}

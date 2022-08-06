@@ -1,0 +1,302 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "house",
+        "title": "left home",
+        "description": "Noé - my roommate - and I left the house at the same time - he for the train to Ottawa, me for Chicago. He gallantly took a photo of me next to our week's trash and I got on the road.",
+        "image": "IMG_2812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56579959392548,
+          45.53297322786292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "meet french dude on gt",
+        "description": "Right as I pulled onto des Érables, I noticed a person on an old GT bike riding alongside. I complimented him on the bike, and we got to talking. Turns out he was commuting to his job in Longueuil so we took the Jacques-Cartier together as he asked me about my trip. I peeled off at Île Ste-Hélène and we made our goodbyes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.56527924537659,
+          45.532713941291014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "title": "blocked by tandem bike race",
+        "description": "As I made it to the Circuit Gilles-Villeneuve my path was blocked, and on the track I noticed that tandem cyclists were racing. I did not know this existed. I watched for a bit before the security guard gruffly gave me detour instructions."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.52788925170898,
+          45.51294827749632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "title": "make horrible decision to get on snowmobile path",
+        "description": "I compounded my unease with the headwinds by trusting the gravel of a snowmobile path, which was far too coarse, leaving me fearing an imminent flat that luckily did not materialize."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.69570165872572,
+          45.304183051660075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "title": "wrong turn costs me 10 km",
+        "description": "I took a wrong turn off of the awful snowmobile path to drain a further ten kilometres into the void."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.74229431152344,
+          45.28181686637888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "stop at cute gas station in howick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85421216487885,
+          45.19172708852265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "bike path turns to garbage, another detour",
+        "description": "Once I'd arrived at Sainte-Martine, a real bike path became available to me - that is, until it dead-ended in a random farm with no warning, happily incurring yet another detour, this time into the most brutal wind I would meet all day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86763393878937,
+          45.18152638006427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "curse at headwinds, volume 9/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87460231781006,
+          45.16694050261985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "tranquil rural road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03841018676758,
+          45.116358308111366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "title": "go to casse-croûte forgetting i have no cash",
+        "description": "The detour eventually landed me in Huntingdon, where I planned on eating some poutine, only to realize that the casse-croûte was cash-only. Amateur mistake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17322874069214,
+          45.08757364165738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "gatorade restock at pharmacy in lieu of actual food",
+        "description": "I substituted these much-needed poutine calories, rather ill-advisedly, with a pharmacy Gatorade. The woman at the register was very kind - and greeted me in English! - reminding me that, for all of my missteps, I was at least making southwestern progress."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17359352111816,
+          45.08635408126547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "title": "lol another wrong turn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17616844177246,
+          45.08567232808564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "joy",
+        "title": "lol i cross smellie road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.25039052963257,
+          45.07500561899931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "take deep breath, stop pushing too hard",
+        "description": "Then followed the longest stretch of road for the day, where halfway through I finally found common sense, stopped, stretched, drank some water, and pledged to myself to take it easy. Why rush when I had left early enough for a comfortable arrival time, even at snail’s pace?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.29376989603043,
+          45.06650131786713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "us customs people just wave me thru thank u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50466126203537,
+          44.99565026649659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "onion rings yum yum",
+        "description": "I made it to Frankie’s Hot Dog Stand in Fort Covington just twenty minutes prior to their peculiar closing time of 3pm and had a “Glazier” hot dog and some stellar onion rings. The restaurant was adjacent to the town park, which featured tidbits of its history in the War of 1812. I stretched, laid in the grass, and shut my eyes. The detours had added twelve kilometres onto an already long day, so some respite before the last stretch was much welcome.",
+        "image": "onion_rings"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4958233833313,
+          44.9882951380248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "buy sub and water at twinleaf for night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50554102659224,
+          44.985457162356404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "catch draft behind amish horsecart",
+        "description": "The last hour and a half or so of my journey largely involved traversing Amish homesteads. I even drafted a horse cart on the country highway for a kilometre or so. They seemed to have vehicles much more optimized for their use than the ostentatiously oversized pickups dangerously passing them.",
+        "image": "drafting-amish-cart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.59931373596191,
+          44.9355799700891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "lovely forest gravel road",
+        "description": "My left turn onto Keenan Road marked the very last stretch of the day - more than ten kilometres of roads where I was passed by no more than one or two cars. The last eight kilometres brought me into Brasher Falls State Forest, my campsite for the day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71471309661865,
+          44.88351573945066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "title": "pitch tent megaquick because mosquitoes eating me alive",
+        "description": "I arrived at 5:40pm or so, quickly set up camp given the concentration of mosquitoes (and my avaricious lack of bug juice!), and devoured the gas station sub that I had provisioned as dinner at the Fort Covington Twinleaf gas station.",
+        "image": "tent-first-day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.77675259113312,
+          44.86092623800585
+        ]
+      }
+    }
+  ]
+}

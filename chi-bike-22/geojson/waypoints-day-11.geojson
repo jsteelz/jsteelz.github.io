@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "title": "finally decide to pack up wet tent after procrastinating for an hour",
+        "description": "The water was still dripping from the tree leaves as I woke up this morning. I wallowed in my dry tent for a while before admitting to myself that it would just be easier to pack up camp instead of waiting for perfectly dry skies."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.24068301916122,
+          41.29360185506441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "underwhelming biscuit sandwich at timmies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36126172542572,
+          41.29465581973808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "liquids and toothpaste restock at rite-aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.36151385307312,
+          41.295425626386454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "too many trucks on this road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.40289497375488,
+          41.311597526108635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-covering-mouth",
+        "title": "blow thru road closed sign because i dont wanna find detour, construction workers don't care anyways"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.74784851074219,
+          41.324877003600434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "made it to indiana",
+        "image": "ind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.80434656143188,
+          41.3252476298123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "no shoulder and only big trucks wow great welcome indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.82063293457031,
+          41.33667155154352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "have i mentioned this road sucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.85779762268066,
+          41.35284530001043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "have i mentioned this road sucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.96826171874999,
+          41.36263780816235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "circle k food sucks i couldn't even finish that sando",
+        "description": "I stopped at a Circle K and purchased a truly unpalatable sandwich, which I could only get through half of, a banana, a cookie, and a Gatorade refill."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.05911350250244,
+          41.351975499430104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "ok those pancakes were fire though wow good stuff",
+        "description": "The short jaunt to Garrett was mostly calm, and I dined at a pancake house that did indeed make truly great flapjacks. I had a kind waitress on her first day of work.",
+        "image": "flapjacks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13576030731201,
+          41.35007478364319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "its broiling theres no shade and this road is in dire condition"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.24497985839844,
+          41.35129897983286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "warm welcome at pretty state park",
+        "description": "I arrived at Chain O Lakes where a cheery park attendant greeted me, gave me directions, and told me to be safe. The campground is the nicest I’ve been at so far - bathrooms, showers (which I unfortunately can’t use), and a general store."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.40202856063843,
+          41.3412953339141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "title": "pitch tent, nice chat with woman at general store, retiree invites me for dinner in his rv",
+        "description": "The older man in the camper across the way invited me over for burgers. I didn’t realize he meant literally inside his small RV trailer - but I obliged nonetheless. We talked over grapes while the burgers were grilling. He is a recently retired widower of ten years who loves fishing and boating of all kinds. He was eager to show me his catches for the day - lots of fish indeed. He was very kind to me and offered lots of food, most of which I declined as I was quite full from the pancake house meal. He eventually asked to see my bike, which I decided was the opportunity for me to head back to my tent. He said grace before we ate and had conservative talk radio as a perennial background - not my cup of tea.",
+        "image": "tent-day10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37328600883484,
+          41.32928409617416
+        ]
+      }
+    }
+  ]
+}

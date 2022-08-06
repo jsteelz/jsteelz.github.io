@@ -1,0 +1,307 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "wake up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5933027267456,
+          43.15623226883234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "coffee and crosswords at local coffee shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59687542915344,
+          43.15732798201878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "cloying asphalt smell",
+        "description": "The weather forecast showed thunderstorms in the afternoon at both my origin and destination locations so I left pretty quickly. I was greeted with three kilometres (or so it seemed) of tar smell, which was brought to me by the wind and an asphalt plant that I eventually passed upon exiting Rochester."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6654863357544,
+          43.15000198328478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "find source of cloying asphalt smell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.68222332000732,
+          43.15000198328478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "snacks and gatorade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7881383895874,
+          43.12665624694323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "bad headwinds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.82551765441895,
+          43.11718075340718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "bad headwinds and roadkill everywhere",
+        "description": "I spent most of the day on NY-33, a road that will find a nest in my worst nightmares. The lanes were paved but the shoulders were decrepit, featuring hidden rumble strips, cracked pavement, and an incredible quantity of roadkill, sometimes even blocking the road. It wasn’t just the usual rodents. Entire deer were being picked apart as I dodged them. The landscape was boring and at times smelly well beyond the usual cow-farm odor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89692878723145,
+          43.101484228734684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "worst stench ever"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.93950080871582,
+          43.07603540440739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "good god i need a break from this wind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.94586300849915,
+          43.073198396563456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "meet dude on like $10000 racing bike in middle of nowhere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9461419582367,
+          43.07329636173077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "curse at everything, why would a benevolent god do this to me, volume 11/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.03219795227051,
+          43.03828147929849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "devour farmers market golden raspberries",
+        "description": "The anomaly of the day was noticing a small farmers market in Batavia, where I downed a pint of delicious golden raspberries. The market seemed a little deserted but was a welcome break in a difficult day.",
+        "image": "berries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.18278789520264,
+          42.99877805407179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "respite from hell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4053897857666,
+          42.95956328564849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "somewhat resigned now, volume 5/10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.50521087646483,
+          42.94272686072577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "can't get off hell road because of road closure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.57833862304688,
+          42.931039171849505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "finally off hell roads on nice rail trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.59404563903809,
+          42.91589214670959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "beef on weck at restaurant i am catastrophically underdressed for",
+        "description": "Arriving in West Seneca I went to try the local dish, roast beef on kümmelweck, at Schwabl’s, apparently a local institution. It was good but not all that. The interior was fancier than I anticipated and I was underdressed as all heck.",
+        "image": "weck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.75359416007996,
+          42.839196455615536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "i am going to die on this hell suburban road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.77695083618164,
+          42.82962147906663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "good god im here and alive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78907442092896,
+          42.8299834197012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "buffalo-style pizza and kind bartender",
+        "description": "I showered and got into street clothes to go try Buffalo-style pizza at a nearby spot, made less accessible by sidewalk-less roads and a giant interstate. The pizza was good, the salad was a pizza joint salad, and the bartender, who took my club soda order in stride, was chill. He was sporting a Seattle Kraken hat. He eventually asked me about my trip and seemed taken aback by it. He gave me a fist bump and wished me well.",
+        "image": "buffaloza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8070559501648,
+          42.83606134521815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "needed sleep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78907442092896,
+          42.8299834197012
+        ]
+      }
+    }
+  ]
+}

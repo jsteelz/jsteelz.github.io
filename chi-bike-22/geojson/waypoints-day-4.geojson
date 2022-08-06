@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "title": "wake up in clammy tent",
+        "description": "I woke up clammy in my sleeping bag, as expected. The cold was fine and subsided around 7, when I got up and packed up camp."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6975200176239,
+          43.33538565816447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "breakfast with kind local warmshowers host",
+        "description": "I rode over to Zeke’s camp, where he and his daughter, Yuli, were seemingly awaiting me. They brought me into the little hut they had made around the picnic table. Zeke (the man who had invited me over the night before) was very into outdoorsy things - his daughter was slightly weary every time he mentioned another camping product to me. Zeke told me that he lived right by but was camping here to host a small family reunion - his daughter and granddaughter, Julianna, live down in the Tampa area. Zeke made me coffee, bacon, and eggs, as I discussed the expanse of the crazy cross-bay bridges around Tampa with Yuli. It eventually became time to leave and I thanked the family and got on my way."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.69697284698486,
+          43.33455846999541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "coffee at local roastery with no bathroom",
+        "description": "Shortly into the interminable Ridge Road section of the ride, I started to need to go to the bathroom pretty badly. I found a coffee roaster, ordered a cold brew and a muffin, but did not find the all-important restroom. I continued on, sure that a gas station would make itself available soon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05583095550537,
+          43.23633183762483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "title": "broe i am dying where is the bathrooms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13294982910155,
+          43.23163404452711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-covering-mouth",
+        "title": "irrigate dumpster behind gas station with no public restrooms",
+        "description": "Instead, I spent the next hour on Ridge Road wondering where any businesses were, clutching my empty coffee cup before a seemingly suitable location reared its head in Ontario, New York. Upon entering the gas station, however, I was greeted with a “No Public Restrooms” sign. Defeated and in dire need, the dumpsters behind the establishment would be my undeserving relief location."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30688035488129,
+          43.22600559596996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "purchase water as if i did not already wrong this establishment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.30673551559448,
+          43.22591960175278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "these suburbs suck",
+        "description": "I restocked on water and shortly thereafter entered the Rochester suburbs, which were hideous, searingly hot, and also the place where I completely ran out of energy. I was shivering at stops, just ahead of the largest hill of the day, the climb out of Ellison Park."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44640350341797,
+          43.19372579233989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "weary",
+        "title": "full body shivering after gigahill while i have no energy left",
+        "image": "secular_humanists"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.52841472625732,
+          43.14953233802909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "try to get some energy at cvs",
+        "description": "The climb left me gasping for air and caloric content, so I stopped at the nearest CVS to pick up a Payday and more water."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.55422830581665,
+          43.149140964226035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "trying the rochester culinary centrepiece",
+        "description": "I then decided to try out the local specialty, the garbage plate, a dish well-described by its name but peculiarly tasty in the moment.",
+        "image": "garbage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59424686431885,
+          43.14636996602024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "shower at hotel and change",
+        "description": "I checked into the hotel, showered, washed my clothes, and did some trip-planning to-dos that I needed to finally check off."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5933027267456,
+          43.15623226883234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "chill at nice local bar with nice people",
+        "description": "I walked around the predictably boring and very hot downtown to get some cash before going to a local bar/restaurant that looked promising - but they had lots of food shortages and the veggies I was craving were not available. I did, however, have two beers and a giant slice of pizza (with a separate sauce for the crust) for $11 after tip and tax."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.59520709514618,
+          43.15375118850719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "watch baseball and zzz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5933027267456,
+          43.15623226883234
+        ]
+      }
+    }
+  ]
+}

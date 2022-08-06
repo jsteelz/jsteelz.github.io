@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "title": "wake up, bugs have arrived, gtfo before i am eaten alive, steve says goodbye",
+        "description": "I woke up to an incredible swarm of mosquitoes which forced me into a very hasty exit from the campground, after a goodbye from Steve, the fishing camper. The sunrise over the campground was quite beautiful.",
+        "image": "sunrise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.37328600883484,
+          41.32928409617416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "breakfast at half acre cafe, meet some locals, learn that i don't like corned beef hash",
+        "description": "I arrived for breakfast at Half Acre Cafe shortly thereafter and ordered a lot of food. The biscuits and gravy were okay, but the gravy was too thick for my liking. I learned that corned beef hash isn’t really my thing. The French toast was pretty good. Their placemats featured intentionally misspelled local ads. Some locals said hi and wished me well on my trip.",
+        "image": "halfacre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.42404413223265,
+          41.35192717683488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "last stock up for 60km at gas station with bad vibes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66773891448975,
+          41.378917812254066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "witness a crop duster crop-dust for the first time",
+        "description": "The hills subsided shortly after the stock-up. I then noticed a biplane flying extremely low in loops in front of me. As I approached I realized I was witnessing my first ever crop-dusting. I hope I did not inhale too many carcinogens as the plane looped and sprayed the adjacent corn fields."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.85405588150024,
+          41.36207413466548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hand-covering-mouth",
+        "title": "do some crop irrigation of my own and hope the crop-duster overhead doesn't catch me",
+        "image": "soy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.87308883666992,
+          41.36244454922774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "another last stock-up for 60km, the egg and cheese biscuit was lukewarm, also its hot as hell out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.31258487701415,
+          41.3634430475455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "facepalm",
+        "title": "hubris missed turn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.78098440170288,
+          41.410805789669816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "meet kindest librarian who also works at county bike coalition who gives me water and local bikeway map",
+        "description": "Running low on water in Wanatah, where no business seemed to be operational, I popped into the rather humble public library. A chipper man occupying the front desk immediately understood my situation and brought me back to the kitchen, where I filled my water bottle and got another. It turns out that this man is on the board of the region’s cycleway council and so he offered route planning advice and gave me a biking map of the region. His kindness and the encounter left me awestruck and illuminated my day immensely. I intend on keeping the map for a while. Upon exiting the town a resident’s lawn had a sign saying “We love our local public library” and I could only agree."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.89826130867004,
+          41.42856998898639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "holy freaking frick how did i make it to valpo through this"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.02394962310791,
+          41.43452248312604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "i am going to die on this road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03648090362549,
+          41.43696767390062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "first ever chipotle experience hits the spot sooooo hard omg yes",
+        "image": "chipotle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03012943267822,
+          41.46892363546903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "holiday inn, shower and order chipotle for delivery for dinner because no sidewalks for 1km radius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.027747631073,
+          41.458423488443955
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "tent",
+        "title": "early morning at campground",
+        "description": "I was woken early by raucous birdsong. I wallowed around in my own grime for a bit before finally getting up. I packed up camp and got an early start to the day."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07754325866699,
+          42.14975732645718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "curse",
+        "title": "worst 'bike path' evar",
+        "description": "The first part of the day was along the Erie Bayfront Parkway, a sad excuse for a bikeway - really just a wide sidewalk with horrible curb cuts. It didn’t help that I had to readjust my tarp a few times before I finally got it into a place that wasn’t interfering with my back wheel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.09101867675781,
+          42.13365381190146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "yum",
+        "title": "donuts and coffee and local gossip",
+        "description": "I made it to a donut shop in the west of town, where I had two decent donuts and a cup of coffee while watching the ins and outs of the establishment.",
+        "image": "hkdonut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16876250505446,
+          42.097714910689106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "stock up for the day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18653750419617,
+          42.08186093863327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "pretty forested state park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3745174407959,
+          42.01575907817143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "cry",
+        "title": "this town is depleted i cant even find a coffee shop the roads are a tragedy oof",
+        "description": "Ashtabula was incredibly depressing, featuring a completely empty downtown and some of the worst-paved streets I’ve seen. I was expecting to stop by but there were no open coffee shops in town."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.78213810920715,
+          41.86551806177062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "grin",
+        "title": "chill rail trail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.79341411590576,
+          41.86018058097573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "eat my dunkies while local schoolkids give me weird looks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.94803810119629,
+          41.78928091160282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "arrive at suburban best western",
+        "description": "I am now in Mentor, Ohio, but wish I had booked two nights in Cleveland. I was worried that today would be too long if I were to go all the way but I think it would have been fine. The hotels in Cleveland were some kind of pricey, though.",
+        "image": "jazzercise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.33883595466614,
+          41.66623586805238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "gas",
+        "title": "have ok salad/sandwich from local italian deli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.32778525352478,
+          41.671661634062765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "hotel",
+        "title": "have an sleep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.33883595466614,
+          41.66623586805238
+        ]
+      }
+    }
+  ]
+}

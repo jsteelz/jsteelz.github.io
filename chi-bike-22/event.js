@@ -1,14 +1,28 @@
 const DEFAULT_PAGE_HTML = `
 <div id="title">
-jsteelz
+  jsteelz
 </div>
 <div id="subtitle">
-this is my bike trip from seattle to chicago as best i remember it
+  this is my bike trip from seattle to chicago as best i remember it
 </div>
 <div id="menu">
-you can let me tell you the story (just use the ⬅️➡️ buttons)
-<br>you can peruse by day
-<br>or you can just click on anything on the map and get its description, i guess
+  you can let me tell you the story (just press the ⬅️<span onclick="incrementEvent()">➡️</span> buttons on your keyboard!!)
+  <br>
+  it contains some annotated journal entries, bad photos, my complaints about america's lack of public restrooms, and some occasional very light debauchery
+  <br>
+  PRESS <span onclick="incrementEvent()">➡️</span> NOW! JUMBO BONUS! THIS IS THE BEST DEAL!
+  <br>
+  PRESS <span onclick="incrementEvent()">➡️</span> NOW! JUMBO BONUS! THIS IS THE BEST DEAL!
+  <br>
+  PRESS <span onclick="incrementEvent()">➡️</span> NOW! JUMBO BONUS! THIS IS THE BEST DEAL!
+  <br>
+  PRESS <span onclick="incrementEvent()">➡️</span> NOW! JUMBO BONUS! THIS IS THE BEST DEAL!
+  <br>
+  <br>
+  <br>
+  or............
+  <br>you can peruse by day <span onclick="goToDay(1)">1</span><span onclick="goToDay(2)">2</span><span onclick="goToDay(3)">3</span><span onclick="goToDay(4)">4</span><span onclick="goToDay(5)">5</span><span onclick="goToDay(6)">6</span><span onclick="goToDay(7)">7</span><span onclick="goToDay(8)">8</span><span onclick="goToDay(9)">9</span><span onclick="goToDay(10)">10</span><span onclick="goToDay(11)">11</span><span onclick="goToDay(12)">12</span><span onclick="goToDay(13)">13</span>
+  <br>or you can just click on anything on the map and get a few unsatisfying words on it, i guess
 </div>
 `;
 
@@ -214,7 +228,7 @@ ${EMOJI[currentWaypointData[activeDayEvent].properties['marker-symbol']]} ${curr
 ${currentWaypointData[activeDayEvent].properties.description || ''}
 </div>
 <div id="reset-button">
-<span onclick="loadStart()">reset</span>
+<span onclick="loadStart()">reset</span><span onclick="decrementEvent()">back</span><span onclick="incrementEvent()">next</span>
 </div>
 `;
 
@@ -227,4 +241,17 @@ ${currentWaypointData[activeDayEvent].properties.image ?
 `
   : ''}
   `;
+}
+
+function goToDay(dayNumber) {
+  activeDay = dayNumber;
+  activeDayEvent = 0;
+  showOnlyLayersOfDay(dayNumber);
+  fetch(`./geojson/waypoints-day-${dayNumber}.geojson`)
+    .then(response => response.json())
+    .then((json) => {
+      currentWaypointData = json.features;
+      activeDayEventCount = json.features.length;
+      displayEvent();
+    });
 }

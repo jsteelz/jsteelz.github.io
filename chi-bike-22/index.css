@@ -2,7 +2,7 @@ html, body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
     Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 500;
-  background-color: gainsboro;
+  background-color: #cad2d3;
   margin: 0;
   overflow-x: hidden;
 }
@@ -71,7 +71,13 @@ img {
   margin: 0;
 }
 
+span {
+  padding-left: 10px;
+  cursor: pointer;
+}
+
 #reset-button {
+  padding-left: 0px;
   padding-top: 50px;
   cursor: pointer;
 }
@@ -83,24 +89,24 @@ img {
 .mapboxgl-popup-content {
   color: #3d265e;
   padding: 5px;
-  background-color: gainsboro;
+  background-color: #cad2d3;
 }
 
 mapboxgl-popup-anchor-top .mapboxgl-popup-tip,
 .mapboxgl-popup-anchor-top-left .mapboxgl-popup-tip,
 .mapboxgl-popup-anchor-top-right .mapboxgl-popup-tip {
-    border-bottom-color: gainsboro;
+    border-bottom-color: #cad2d3;
     }
 .mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip,
 .mapboxgl-popup-anchor-bottom-left .mapboxgl-popup-tip,
 .mapboxgl-popup-anchor-bottom-right .mapboxgl-popup-tip {
-    border-top-color: gainsboro;
+    border-top-color: #cad2d3;
     }
 .mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
-    border-right-color: gainsboro;
+    border-right-color: #cad2d3;
     }
 .mapboxgl-popup-anchor-right .mapboxgl-popup-tip {
-    border-left-color: gainsboro;
+    border-left-color: #cad2d3;
     }
 
 

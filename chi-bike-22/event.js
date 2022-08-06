@@ -3,7 +3,7 @@ const DEFAULT_PAGE_HTML = `
   jsteelz
 </div>
 <div id="subtitle">
-  this is my bike trip from seattle to chicago as best i remember it
+  this is my bike trip from montreal to chicago as best i remember it
 </div>
 <div id="menu">
   you can let me tell you the story (just press the ⬅️<span onclick="incrementEvent()">➡️</span> buttons on your keyboard!!)
@@ -31,7 +31,7 @@ const END_PAGE_HTML = `
 jsteelz
 </div>
 <div id="subtitle">
-that was my bike trip from seattle to chicago as best i remember it
+that was my bike trip from montreal to chicago as best i remember it
 </div>
 <div id="story">
 hope u enjoyed it

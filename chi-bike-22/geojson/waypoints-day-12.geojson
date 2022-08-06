@@ -6,7 +6,8 @@
       "properties": {
         "marker-symbol": "tent",
         "title": "wake up, bugs have arrived, gtfo before i am eaten alive, steve says goodbye",
-        "description": "I woke up to an incredible swarm of mosquitoes which forced me into a very hasty exit from the campground, after a goodbye from Steve, the fishing camper. The sunrise over the campground was quite beautiful."
+        "description": "I woke up to an incredible swarm of mosquitoes which forced me into a very hasty exit from the campground, after a goodbye from Steve, the fishing camper. The sunrise over the campground was quite beautiful.",
+        "image": "sunrise"
       },
       "geometry": {
         "type": "Point",
@@ -21,7 +22,8 @@
       "properties": {
         "marker-symbol": "gas",
         "title": "breakfast at half acre cafe, meet some locals, learn that i don't like corned beef hash",
-        "description": "I arrived for breakfast at Half Acre Cafe shortly thereafter and ordered a lot of food. The biscuits and gravy were okay, but the gravy was too thick for my liking. I learned that corned beef hash isn’t really my thing. The French toast was pretty good. Their placemats featured intentionally misspelled local ads. Some locals said hi and wished me well on my trip."
+        "description": "I arrived for breakfast at Half Acre Cafe shortly thereafter and ordered a lot of food. The biscuits and gravy were okay, but the gravy was too thick for my liking. I learned that corned beef hash isn’t really my thing. The French toast was pretty good. Their placemats featured intentionally misspelled local ads. Some locals said hi and wished me well on my trip.",
+        "image": "halfacre"
       },
       "geometry": {
         "type": "Point",
@@ -64,7 +66,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "hand-covering-mouth",
-        "title": "do some crop irrigation of my own and hope the crop-duster overhead doesn't catch me"
+        "title": "do some crop irrigation of my own and hope the crop-duster overhead doesn't catch me",
+        "image": "soy"
       },
       "geometry": {
         "type": "Point",
@@ -149,7 +152,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "yum",
-        "title": "first ever chipotle experience hits the spot sooooo hard omg yes"
+        "title": "first ever chipotle experience hits the spot sooooo hard omg yes",
+        "image": "chipotle"
       },
       "geometry": {
         "type": "Point",

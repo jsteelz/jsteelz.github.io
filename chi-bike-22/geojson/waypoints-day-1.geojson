@@ -226,7 +226,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "onion rings yum yum",
-        "description": "I made it to Frankie’s Hot Dog Stand in Fort Covington just twenty minutes prior to their peculiar closing time of 3pm and had a “Glazier” hot dog and some stellar onion rings. The restaurant was adjacent to the town park, which featured tidbits of its history in the War of 1812. I stretched, laid in the grass, and shut my eyes. The detours had added twelve kilometres onto an already long day, so some respite before the last stretch was much welcome."
+        "description": "I made it to Frankie’s Hot Dog Stand in Fort Covington just twenty minutes prior to their peculiar closing time of 3pm and had a “Glazier” hot dog and some stellar onion rings. The restaurant was adjacent to the town park, which featured tidbits of its history in the War of 1812. I stretched, laid in the grass, and shut my eyes. The detours had added twelve kilometres onto an already long day, so some respite before the last stretch was much welcome.",
+        "image": "onion_rings"
       },
       "geometry": {
         "type": "Point",
@@ -255,7 +256,8 @@
       "properties": {
         "marker-symbol": "grin",
         "title": "catch draft behind amish horsecart",
-        "description": "The last hour and a half or so of my journey largely involved traversing Amish homesteads. I even drafted a horse cart on the country highway for a kilometre or so. They seemed to have vehicles much more optimized for their use than the ostentatiously oversized pickups dangerously passing them."
+        "description": "The last hour and a half or so of my journey largely involved traversing Amish homesteads. I even drafted a horse cart on the country highway for a kilometre or so. They seemed to have vehicles much more optimized for their use than the ostentatiously oversized pickups dangerously passing them.",
+        "image": "drafting-amish-cart"
       },
       "geometry": {
         "type": "Point",
@@ -285,7 +287,8 @@
       "properties": {
         "marker-symbol": "tent",
         "title": "pitch tent megaquick because mosquitoes eating me alive",
-        "description": "I arrived at 5:40pm or so, quickly set up camp given the concentration of mosquitoes (and my avaricious lack of bug juice!), and devoured the gas station sub that I had provisioned as dinner at the Fort Covington Twinleaf gas station."
+        "description": "I arrived at 5:40pm or so, quickly set up camp given the concentration of mosquitoes (and my avaricious lack of bug juice!), and devoured the gas station sub that I had provisioned as dinner at the Fort Covington Twinleaf gas station.",
+        "image": "tent-first-day"
       },
       "geometry": {
         "type": "Point",

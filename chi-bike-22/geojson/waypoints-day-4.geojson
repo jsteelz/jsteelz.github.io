@@ -108,7 +108,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "weary",
-        "title": "full body shivering after gigahill while i have no energy left"
+        "title": "full body shivering after gigahill while i have no energy left",
+        "image": "secular_humanists"
       },
       "geometry": {
         "type": "Point",
@@ -138,7 +139,8 @@
       "properties": {
         "marker-symbol": "gas",
         "title": "trying the rochester culinary centrepiece",
-        "description": "I then decided to try out the local specialty, the garbage plate, a dish well-described by its name but peculiarly tasty in the moment."
+        "description": "I then decided to try out the local specialty, the garbage plate, a dish well-described by its name but peculiarly tasty in the moment.",
+        "image": "garbage"
       },
       "geometry": {
         "type": "Point",

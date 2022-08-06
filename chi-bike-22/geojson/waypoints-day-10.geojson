@@ -21,7 +21,8 @@
       "properties": {
         "marker-symbol": "weary",
         "title": "wait out crazy downpour under i90 bridge",
-        "description": "Shortly into my ride, the first large squall of the day hit. I rushed to get under the I-90 to keep dry. I waited there for a while for the rain intensity to subside before getting back on the bike."
+        "description": "Shortly into my ride, the first large squall of the day hit. I rushed to get under the I-90 to keep dry. I waited there for a while for the rain intensity to subside before getting back on the bike.",
+        "image": "pour"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +37,8 @@
       "properties": {
         "marker-symbol": "gas",
         "title": "just barely make it to pemberton iga grocery store before second thunderstorm",
-        "description": "I made it to Pemberton mostly dry, just as the second large storm of the day was passing through. After buying a rough equivalent of breakfast at the Pemberton IGA, I hung around, waiting for the thunder to pass."
+        "description": "I made it to Pemberton mostly dry, just as the second large storm of the day was passing through. After buying a rough equivalent of breakfast at the Pemberton IGA, I hung around, waiting for the thunder to pass.",
+        "image": "pemb"
       },
       "geometry": {
         "type": "Point",
@@ -51,7 +53,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "make it to flatlands coffee mostly dry and enjoy incredible coffee and buy beans for adrian",
-        "description": "I spent close to three hours in the Flatlands Coffee shop, which Adrian had told me to visit. There I had an amazing pourover and watched the storms go by as I charged my phone and caught up with friends via text. I also caught up on the Mariners win streak - fourteen games as of the time of writing. Outside the coffee shop, an older lady gave me a brief history of Bowling Green’s main street. She also told me to hug someone and that smiles were hugs. We both complained about the loud cars passing by, interrupting our conversation. Inside, I met someone who had come to Bowling Green by walking all the way from Pittsburgh. He was fun to chat with and wished me well for the rest of my trip."
+        "description": "I spent close to three hours in the Flatlands Coffee shop, which Adrian had told me to visit. There I had an amazing pourover and watched the storms go by as I charged my phone and caught up with friends via text. I also caught up on the Mariners win streak - fourteen games as of the time of writing. Outside the coffee shop, an older lady gave me a brief history of Bowling Green’s main street. She also told me to hug someone and that smiles were hugs. We both complained about the loud cars passing by, interrupting our conversation. Inside, I met someone who had come to Bowling Green by walking all the way from Pittsburgh. He was fun to chat with and wished me well for the rest of my trip.",
+        "image": "flatlands"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +98,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "enjoy surprisingly good pizza and fries in tiny town with no other businesses",
-        "description": "The pizza place in Florida, apparently the last solvent business in town, served me surprisingly good pizza and home fries. I also had some ice cream and took their two remaining water bottles."
+        "description": "The pizza place in Florida, apparently the last solvent business in town, served me surprisingly good pizza and home fries. I also had some ice cream and took their two remaining water bottles.",
+        "image": "florida"
       },
       "geometry": {
         "type": "Point",

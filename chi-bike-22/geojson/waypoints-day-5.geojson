@@ -162,7 +162,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "devour farmers market golden raspberries",
-        "description": "The anomaly of the day was noticing a small farmers market in Batavia, where I downed a pint of delicious golden raspberries. The market seemed a little deserted but was a welcome break in a difficult day."
+        "description": "The anomaly of the day was noticing a small farmers market in Batavia, where I downed a pint of delicious golden raspberries. The market seemed a little deserted but was a welcome break in a difficult day.",
+        "image": "berries"
       },
       "geometry": {
         "type": "Point",
@@ -233,7 +234,8 @@
       "properties": {
         "marker-symbol": "gas",
         "title": "beef on weck at restaurant i am catastrophically underdressed for",
-        "description": "Arriving in West Seneca I went to try the local dish, roast beef on kümmelweck, at Schwabl’s, apparently a local institution. It was good but not all that. The interior was fancier than I anticipated and I was underdressed as all heck."
+        "description": "Arriving in West Seneca I went to try the local dish, roast beef on kümmelweck, at Schwabl’s, apparently a local institution. It was good but not all that. The interior was fancier than I anticipated and I was underdressed as all heck.",
+        "image": "weck"
       },
       "geometry": {
         "type": "Point",
@@ -276,7 +278,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "buffalo-style pizza and kind bartender",
-        "description": "I showered and got into street clothes to go try Buffalo-style pizza at a nearby spot, made less accessible by sidewalk-less roads and a giant interstate. The pizza was good, the salad was a pizza joint salad, and the bartender, who took my club soda order in stride, was chill. He was sporting a Seattle Kraken hat. He eventually asked me about my trip and seemed taken aback by it. He gave me a fist bump and wished me well."
+        "description": "I showered and got into street clothes to go try Buffalo-style pizza at a nearby spot, made less accessible by sidewalk-less roads and a giant interstate. The pizza was good, the salad was a pizza joint salad, and the bartender, who took my club soda order in stride, was chill. He was sporting a Seattle Kraken hat. He eventually asked me about my trip and seemed taken aback by it. He gave me a fist bump and wished me well.",
+        "image": "buffaloza"
       },
       "geometry": {
         "type": "Point",

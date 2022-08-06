@@ -189,7 +189,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "omfg i actually made it to chicago moment"
+        "title": "omfg i actually made it to chicago moment",
+        "image": "chi"
       },
       "geometry": {
         "type": "Point",

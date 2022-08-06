@@ -76,7 +76,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "made it to indiana"
+        "title": "made it to indiana",
+        "image": "ind"
       },
       "geometry": {
         "type": "Point",
@@ -148,7 +149,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "ok those pancakes were fire though wow good stuff",
-        "description": "The short jaunt to Garrett was mostly calm, and I dined at a pancake house that did indeed make truly great flapjacks. I had a kind waitress on her first day of work."
+        "description": "The short jaunt to Garrett was mostly calm, and I dined at a pancake house that did indeed make truly great flapjacks. I had a kind waitress on her first day of work.",
+        "image": "flapjacks"
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +194,8 @@
       "properties": {
         "marker-symbol": "tent",
         "title": "pitch tent, nice chat with woman at general store, retiree invites me for dinner in his rv",
-        "description": "The older man in the camper across the way invited me over for burgers. I didn’t realize he meant literally inside his small RV trailer - but I obliged nonetheless. We talked over grapes while the burgers were grilling. He is a recently retired widower of ten years who loves fishing and boating of all kinds. He was eager to show me his catches for the day - lots of fish indeed. He was very kind to me and offered lots of food, most of which I declined as I was quite full from the pancake house meal. He eventually asked to see my bike, which I decided was the opportunity for me to head back to my tent. He said grace before we ate and had conservative talk radio as a perennial background - not my cup of tea."
+        "description": "The older man in the camper across the way invited me over for burgers. I didn’t realize he meant literally inside his small RV trailer - but I obliged nonetheless. We talked over grapes while the burgers were grilling. He is a recently retired widower of ten years who loves fishing and boating of all kinds. He was eager to show me his catches for the day - lots of fish indeed. He was very kind to me and offered lots of food, most of which I declined as I was quite full from the pancake house meal. He eventually asked to see my bike, which I decided was the opportunity for me to head back to my tent. He said grace before we ate and had conservative talk radio as a perennial background - not my cup of tea.",
+        "image": "tent-day10"
       },
       "geometry": {
         "type": "Point",

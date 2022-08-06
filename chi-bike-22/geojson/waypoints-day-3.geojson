@@ -20,7 +20,8 @@
       "properties": {
         "marker-symbol": "gas",
         "title": "croissant bec and watery coffee",
-        "description": "I woke up and hit the Dunkin at the easy on, easy off strip mall by the hotel. I got a baconeggandcheese and an unsatisfying watered-down coffee. Weirdly I felt full after just that - maybe the pork from the night before really was that filling."
+        "description": "I woke up and hit the Dunkin at the easy on, easy off strip mall by the hotel. I got a baconeggandcheese and an unsatisfying watered-down coffee. Weirdly I felt full after just that - maybe the pork from the night before really was that filling.",
+        "image": "dunkin"
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +92,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "omg delicious incredible fresh warm crispy gas station donut",
-        "description": "I stopped off at a gas station-market that randomly had homemade donuts. The one they served me was still warm, crispy on the outside and glazed with cinnamon sugar - a delight. I am wondering if maybe I should start leaving my helmet by my bike when I go into stores. The stickers are vehemently anti-car and I guess that doesn’t make people around here inclined to constructive interactions with me."
+        "description": "I stopped off at a gas station-market that randomly had homemade donuts. The one they served me was still warm, crispy on the outside and glazed with cinnamon sugar - a delight. I am wondering if maybe I should start leaving my helmet by my bike when I go into stores. The stickers are vehemently anti-car and I guess that doesn’t make people around here inclined to constructive interactions with me.",
+        "image": "IMG_2819"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +123,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "dans chicken shack rocks my world",
-        "description": "Shortly after the 104A turnoff I made my way to Dan’s Chicken Shack, near Mexico Point in Texas, New York. The chicken was succulent and so were the sides. The company was quite something. As I walked into the namesake shack with my meal I quickly understood my outcast status, as the local crowd of 11am daydrinkers and potty-mouths shot me a telling glance. Undeterred, I claimed a spot in a peculiarly comfortable bar chair by a blown-out window doing an excellent job of siphoning the barbecue’s copious particulate matter directly into my lungs."
+        "description": "Shortly after the 104A turnoff I made my way to Dan’s Chicken Shack, near Mexico Point in Texas, New York. The chicken was succulent and so were the sides. The company was quite something. As I walked into the namesake shack with my meal I quickly understood my outcast status, as the local crowd of 11am daydrinkers and potty-mouths shot me a telling glance. Undeterred, I claimed a spot in a peculiarly comfortable bar chair by a blown-out window doing an excellent job of siphoning the barbecue’s copious particulate matter directly into my lungs.",
+        "image": "danschicken"
       },
       "geometry": {
         "type": "Point",
@@ -179,7 +182,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "i scream for mint chip",
-        "description": "I made it to Fair Haven without incident and caved into the desire for more sugars. The local ice cream shop provided me with a mint chip scoop that hit the spot as I contemplated how to kill the time. I unsuccessfully rooted around the town park looking for a place to relieve myself but came up empty-handed."
+        "description": "I made it to Fair Haven without incident and caved into the desire for more sugars. The local ice cream shop provided me with a mint chip scoop that hit the spot as I contemplated how to kill the time. I unsuccessfully rooted around the town park looking for a place to relieve myself but came up empty-handed.",
+        "image": "mintchip"
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +228,8 @@
       "properties": {
         "marker-symbol": "grin",
         "title": "sick sunset over lake ontario",
-        "description": "I made my way to the state park, where I set up camp. I decided to visit the beach, where I currently am, hoping that my tent is well-staked and non susceptible to theft. I have decided to see what the sunset over Lake Ontario looks like. The beach is lively and filled with good spirit - if only I had the swimsuit and camp towel I had planned on bringin. I guess I will content myself with people-watching, crosswords, and distant wafts of Doppler-effect bachata from passing jetskis."
+        "description": "I made my way to the state park, where I set up camp. I decided to visit the beach, where I currently am, hoping that my tent is well-staked and non susceptible to theft. I have decided to see what the sunset over Lake Ontario looks like. The beach is lively and filled with good spirit - if only I had the swimsuit and camp towel I had planned on bringin. I guess I will content myself with people-watching, crosswords, and distant wafts of Doppler-effect bachata from passing jetskis.",
+        "image": "sunset"
       },
       "geometry": {
         "type": "Point",

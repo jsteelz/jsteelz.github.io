@@ -93,7 +93,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "grin",
-        "title": "pretty bridge"
+        "title": "pretty bridge",
+        "image": "bridge"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +122,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "doritos and diet arnold palmer at stewarts"
+        "title": "doritos and diet arnold palmer at stewarts",
+        "image": "doritos"
       },
       "geometry": {
         "type": "Point",
@@ -237,7 +239,8 @@
       "properties": {
         "marker-symbol": "grin",
         "title": "meet trikers from peterborough ontario who also got screwed over trying to find last-minute hotel, devour bomb filipino food",
-        "description": "While waiting for my Doordashed Filipino repast I chatted with a pair of trikers from Peterborough, Ontario, who had made my same mistake - only they were old enough to know better. I had a nice chat with them before they went in. The Filipino food was delicious, the lumpia still crispy and the ssig unctuous and perfectly seasoned. The garlic fried rice itself was to die for. I ate alone on the sorry terrace in front of the hotel."
+        "description": "While waiting for my Doordashed Filipino repast I chatted with a pair of trikers from Peterborough, Ontario, who had made my same mistake - only they were old enough to know better. I had a nice chat with them before they went in. The Filipino food was delicious, the lumpia still crispy and the ssig unctuous and perfectly seasoned. The garlic fried rice itself was to die for. I ate alone on the sorry terrace in front of the hotel.",
+        "image": "IMG_2817"
       },
       "geometry": {
         "type": "Point",

@@ -221,8 +221,8 @@ ${currentWaypointData[activeDayEvent].properties.description || ''}
   document.getElementById('side-image').innerHTML = `
 ${currentWaypointData[activeDayEvent].properties.image ?
 `
-<a target="_blank" href="./img/${currentWaypointData[activeDayEvent].properties.image}.JPG">
-<img src="./img/${currentWaypointData[activeDayEvent].properties.image}-small.JPG">
+<a target="_blank" href="./img/${currentWaypointData[activeDayEvent].properties.image}.jpg">
+<img src="./img/${currentWaypointData[activeDayEvent].properties.image}-small.jpg">
 </a>
 `
   : ''}

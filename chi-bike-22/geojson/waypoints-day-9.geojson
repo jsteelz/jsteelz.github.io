@@ -34,7 +34,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "have delicious lox on bagel, meet beautiful puppy named kangaroo",
-        "description": "Early on, I stopped at Cleveland Bagel Company for a delicious lox sandwich. While I ate, I made acquaintances with Kangaroo, a beautiful puppy, and its owners, who wished me well on my trip."
+        "description": "Early on, I stopped at Cleveland Bagel Company for a delicious lox sandwich. While I ate, I made acquaintances with Kangaroo, a beautiful puppy, and its owners, who wished me well on my trip.",
+        "image": "bagel"
       },
       "geometry": {
         "type": "Point",
@@ -132,7 +133,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "circle k's are the worst gas stations foodwise"
+        "title": "circle k's are the worst gas stations foodwise",
+        "image": "pride-in-clyde"
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +148,8 @@
       "type": "Feature",
       "properties": {
         "marker-symbol": "gas",
-        "title": "eat and charge phone at subway and overhear local softball team gossip"
+        "title": "eat and charge phone at subway and overhear local softball team gossip",
+        "image": "subway"
       },
       "geometry": {
         "type": "Point",

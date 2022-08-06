@@ -36,7 +36,8 @@
       "properties": {
         "marker-symbol": "yum",
         "title": "donuts and coffee and local gossip",
-        "description": "I made it to a donut shop in the west of town, where I had two decent donuts and a cup of coffee while watching the ins and outs of the establishment."
+        "description": "I made it to a donut shop in the west of town, where I had two decent donuts and a cup of coffee while watching the ins and outs of the establishment.",
+        "image": "hkdonut"
       },
       "geometry": {
         "type": "Point",
@@ -122,7 +123,8 @@
       "properties": {
         "marker-symbol": "hotel",
         "title": "arrive at suburban best western",
-        "description": "I am now in Mentor, Ohio, but wish I had booked two nights in Cleveland. I was worried that today would be too long if I were to go all the way but I think it would have been fine. The hotels in Cleveland were some kind of pricey, though."
+        "description": "I am now in Mentor, Ohio, but wish I had booked two nights in Cleveland. I was worried that today would be too long if I were to go all the way but I think it would have been fine. The hotels in Cleveland were some kind of pricey, though.",
+        "image": "jazzercise"
       },
       "geometry": {
         "type": "Point",
